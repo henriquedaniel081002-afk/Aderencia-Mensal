@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-04T15:09:15-04:00",
+  "geradoEm": "2026-08-05T10:04:20-04:00",
   "periodo": {
     "inicio": "2026-07-01",
     "fim": "2026-09-30",
@@ -11669,6 +11669,195 @@
       "setor": "SOLDA",
       "turno": "2º",
       "quantidade": 24
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "turno": "1º",
+      "quantidade": 62
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "turno": "2º",
+      "quantidade": 55
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "turno": "1º",
+      "quantidade": 61
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "turno": "2º",
+      "quantidade": 62
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "turno": "1º",
+      "quantidade": 308
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "CORTE DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 84
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "turno": "1º",
+      "quantidade": 130
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 84
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 101
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 110
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "turno": "1º",
+      "quantidade": 58
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "turno": "2º",
+      "quantidade": 54
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "turno": "2º",
+      "quantidade": 106
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "turno": "1º",
+      "quantidade": 48
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "turno": "2º",
+      "quantidade": 24
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "turno": "1º",
+      "quantidade": 42
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "turno": "2º",
+      "quantidade": 19
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "CORTE DO LASER",
+      "turno": "1º",
+      "quantidade": 41
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "CORTE DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 61
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "turno": "1º",
+      "quantidade": 92
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 73
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 84
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 68
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "turno": "1º",
+      "quantidade": 50
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "turno": "2º",
+      "quantidade": 33
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "turno": "1º",
+      "quantidade": 72
+    },
+    {
+      "data": "2026-08-04",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "turno": "2º",
+      "quantidade": 7
     }
   ]
 }

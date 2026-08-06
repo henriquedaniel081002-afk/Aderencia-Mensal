@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-06T14:58:34-04:00",
+  "geradoEm": "2026-08-06T15:59:22-04:00",
   "periodo": {
     "inicio": "2026-07-01",
     "fim": "2026-09-30",
@@ -11934,7 +11934,7 @@
       "linha": "MON",
       "setor": "MONTAGEM FINAL",
       "turno": "1º",
-      "quantidade": 115
+      "quantidade": 114
     },
     {
       "data": "2026-08-05",

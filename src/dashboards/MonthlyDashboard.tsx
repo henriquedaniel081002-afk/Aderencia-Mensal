@@ -4,11 +4,13 @@ import { Header } from '../components/Header';
 import { formatNum, formatPct } from '../lib/formatters';
 import { MetricPanels } from '../components/MetricPanels';
 import { EvolutionChart } from '../components/Charts';
+import { DayDetailModal, type DetalheProducao, type Falta, type Observacao } from '../components/DayDetailModal';
+import type { EvolutionItem } from '../components/Charts';
 import dadosJson from '../data/aderenciaMensal.json';
 
 type Programacao = { data:string; linha:string; setor:string; quantidade:number };
 type Apontamento = Programacao & { turno:string };
-type Dados = { geradoEm:string; periodo:{meses:string[]}; filtros:{linhas:string[];setores:string[];turnos:string[]}; programacao:Programacao[]; apontamento:Apontamento[] };
+type Dados = { geradoEm:string; periodo:{meses:string[]}; filtros:{linhas:string[];setores:string[];turnos:string[]}; programacao:Programacao[]; apontamento:Apontamento[]; detalhesProducao?:DetalheProducao[]; faltas?:Falta[]; observacoes?:Observacao[] };
 const dados = dadosJson as Dados;
 const mesesNomes = ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
 const mesLabel = (ym:string) => { const [a,m]=ym.split('-').map(Number); return `${mesesNomes[m-1]} de ${a}`; };
@@ -22,6 +24,7 @@ export function MonthlyDashboard({ onLogout }: { onLogout: () => void }) {
   const [setor, setSetor] = useState(defaultSetor);
   const [linha, setLinha] = useState('Todas');
   const [turno, setTurno] = useState('Todos');
+  const [diaSelecionado, setDiaSelecionado] = useState<EvolutionItem | null>(null);
 
   const calculado = useMemo(() => {
     const prog = dados.programacao.filter(r => r.data.startsWith(mes) && (linha==='Todas'||r.linha===linha) && r.setor===setor);
@@ -80,10 +83,22 @@ export function MonthlyDashboard({ onLogout }: { onLogout: () => void }) {
                 totalProgrammed: formatNum(calculado.programadoTotal),
               }}
             />
-            <EvolutionChart data={calculado.porDia} mesLabel={mesLabel(mes)} />
+            <EvolutionChart data={calculado.porDia} mesLabel={mesLabel(mes)} onDayClick={setDiaSelecionado} />
           </main>
         </div>
       </div>
+      {diaSelecionado && (
+        <DayDetailModal
+          item={diaSelecionado}
+          setor={setor}
+          linha={linha}
+          turno={turno}
+          detalhes={dados.detalhesProducao ?? []}
+          faltas={dados.faltas ?? []}
+          observacoes={dados.observacoes ?? []}
+          onClose={() => setDiaSelecionado(null)}
+        />
+      )}
     </div>
   );
 }

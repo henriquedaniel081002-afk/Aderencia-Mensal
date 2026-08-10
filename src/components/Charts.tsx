@@ -42,7 +42,7 @@ function sanitizeSvgId(value: string) {
   return value.replace(/[^a-zA-Z0-9_-]/g, '');
 }
 
-export function EvolutionChart({ data, mesLabel }: { data: EvolutionItem[]; mesLabel: string }) {
+export function EvolutionChart({ data, mesLabel, onDayClick }: { data: EvolutionItem[]; mesLabel: string; onDayClick?: (item: EvolutionItem) => void }) {
   const prefersReducedMotion = useReducedMotion();
   const rawId = sanitizeSvgId(useId());
   const chartMinWidth = Math.max(940, data.length * 58);
@@ -177,6 +177,9 @@ export function EvolutionChart({ data, mesLabel }: { data: EvolutionItem[]; mesL
                     isAnimationActive={!prefersReducedMotion}
                     animationDuration={animationDuration}
                   >
+                    {data.map((item) => (
+                      <Cell key={item.data} onClick={() => onDayClick?.(item)} style={{ cursor: onDayClick ? 'pointer' : 'default' }} />
+                    ))}
                     <LabelList
                       dataKey="programado"
                       position="top"
@@ -203,6 +206,8 @@ export function EvolutionChart({ data, mesLabel }: { data: EvolutionItem[]; mesL
                           fill={`url(#${reachedTarget ? ids.producedSuccessGradient : ids.producedDangerGradient})`}
                           filter={`url(#${reachedTarget ? ids.successGlow : ids.dangerGlow})`}
                           opacity={item.produzido === 0 ? 0.22 : 1}
+                          onClick={() => onDayClick?.(item)}
+                          style={{ cursor: onDayClick ? 'pointer' : 'default' }}
                         />
                       );
                     })}
@@ -223,7 +228,7 @@ export function EvolutionChart({ data, mesLabel }: { data: EvolutionItem[]; mesL
 
           <div className="evolution-chart-note" role="note">
             <Info className="size-3.5" aria-hidden="true" />
-            <span>Barras verdes indicam dias acima da programação. Barras vermelhas indicam dias abaixo da programação.</span>
+            <span>Clique nas colunas para abrir os detalhes do dia. Verde indica acima da programação; vermelho, abaixo.</span>
           </div>
         </div>
       )}

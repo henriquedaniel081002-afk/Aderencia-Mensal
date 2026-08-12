@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-12T15:47:30-04:00",
+  "geradoEm": "2026-08-12T16:11:34-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -50,7 +50,7 @@
       "data": "2026-08-03",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 6
+      "quantidade": 3
     },
     {
       "data": "2026-08-03",
@@ -105,12 +105,6 @@
       "linha": "MON",
       "setor": "BOBINA BT",
       "quantidade": 249
-    },
-    {
-      "data": "2026-08-03",
-      "linha": "MON",
-      "setor": "CORTE DO LASER",
-      "quantidade": 517
     },
     {
       "data": "2026-08-03",
@@ -171,12 +165,6 @@
       "linha": "TRI",
       "setor": "BOBINA BT",
       "quantidade": 6
-    },
-    {
-      "data": "2026-08-03",
-      "linha": "TRI",
-      "setor": "CORTE DO LASER",
-      "quantidade": 377
     },
     {
       "data": "2026-08-03",
@@ -277,12 +265,6 @@
     {
       "data": "2026-08-04",
       "linha": "MON",
-      "setor": "CORTE DO LASER",
-      "quantidade": 106
-    },
-    {
-      "data": "2026-08-04",
-      "linha": "MON",
       "setor": "FERRAGEM",
       "quantidade": 107
     },
@@ -337,12 +319,6 @@
     {
       "data": "2026-08-04",
       "linha": "TRI",
-      "setor": "CORTE DO LASER",
-      "quantidade": 75
-    },
-    {
-      "data": "2026-08-04",
-      "linha": "TRI",
       "setor": "CORTE DO NUCLEO",
       "quantidade": 64
     },
@@ -392,7 +368,7 @@
       "data": "2026-08-05",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 2
+      "quantidade": 1
     },
     {
       "data": "2026-08-05",
@@ -435,12 +411,6 @@
       "linha": "MON",
       "setor": "BOBINA BT",
       "quantidade": 87
-    },
-    {
-      "data": "2026-08-05",
-      "linha": "MON",
-      "setor": "CORTE DO LASER",
-      "quantidade": 90
     },
     {
       "data": "2026-08-05",
@@ -501,12 +471,6 @@
       "linha": "TRI",
       "setor": "BOBINA BT",
       "quantidade": 60
-    },
-    {
-      "data": "2026-08-05",
-      "linha": "TRI",
-      "setor": "CORTE DO LASER",
-      "quantidade": 64
     },
     {
       "data": "2026-08-05",
@@ -613,12 +577,6 @@
     {
       "data": "2026-08-06",
       "linha": "MON",
-      "setor": "CORTE DO LASER",
-      "quantidade": 87
-    },
-    {
-      "data": "2026-08-06",
-      "linha": "MON",
       "setor": "CORTE DO NUCLEO",
       "quantidade": 90
     },
@@ -679,12 +637,6 @@
     {
       "data": "2026-08-06",
       "linha": "TRI",
-      "setor": "CORTE DO LASER",
-      "quantidade": 60
-    },
-    {
-      "data": "2026-08-06",
-      "linha": "TRI",
       "setor": "CORTE DO NUCLEO",
       "quantidade": 67
     },
@@ -740,7 +692,7 @@
       "data": "2026-08-07",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 2
+      "quantidade": 1
     },
     {
       "data": "2026-08-07",
@@ -777,12 +729,6 @@
       "linha": "MON",
       "setor": "BOBINA BT",
       "quantidade": 119
-    },
-    {
-      "data": "2026-08-07",
-      "linha": "MON",
-      "setor": "CORTE DO LASER",
-      "quantidade": 107
     },
     {
       "data": "2026-08-07",
@@ -847,12 +793,6 @@
     {
       "data": "2026-08-07",
       "linha": "TRI",
-      "setor": "CORTE DO LASER",
-      "quantidade": 67
-    },
-    {
-      "data": "2026-08-07",
-      "linha": "TRI",
       "setor": "CORTE DO NUCLEO",
       "quantidade": 73
     },
@@ -914,7 +854,7 @@
       "data": "2026-08-10",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 2
+      "quantidade": 1
     },
     {
       "data": "2026-08-10",
@@ -962,7 +902,7 @@
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 169
+      "quantidade": 50
     },
     {
       "data": "2026-08-10",
@@ -1027,12 +967,6 @@
     {
       "data": "2026-08-10",
       "linha": "TRI",
-      "setor": "CORTE DO LASER",
-      "quantidade": 73
-    },
-    {
-      "data": "2026-08-10",
-      "linha": "TRI",
       "setor": "CORTE DO NUCLEO",
       "quantidade": 75
     },
@@ -1088,7 +1022,7 @@
       "data": "2026-08-11",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 2
+      "quantidade": 1
     },
     {
       "data": "2026-08-11",
@@ -1124,7 +1058,7 @@
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 220
+      "quantidade": 110
     },
     {
       "data": "2026-08-11",
@@ -1189,12 +1123,6 @@
     {
       "data": "2026-08-11",
       "linha": "TRI",
-      "setor": "CORTE DO LASER",
-      "quantidade": 75
-    },
-    {
-      "data": "2026-08-11",
-      "linha": "TRI",
       "setor": "CORTE DO NUCLEO",
       "quantidade": 70
     },
@@ -1310,7 +1238,7 @@
       "data": "2026-08-12",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 284
+      "quantidade": 142
     },
     {
       "data": "2026-08-12",
@@ -1375,12 +1303,6 @@
     {
       "data": "2026-08-12",
       "linha": "TRI",
-      "setor": "CORTE DO LASER",
-      "quantidade": 70
-    },
-    {
-      "data": "2026-08-12",
-      "linha": "TRI",
       "setor": "CORTE DO NUCLEO",
       "quantidade": 75
     },
@@ -1430,7 +1352,7 @@
       "data": "2026-08-13",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 4
+      "quantidade": 2
     },
     {
       "data": "2026-08-13",
@@ -1478,7 +1400,7 @@
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 276
+      "quantidade": 138
     },
     {
       "data": "2026-08-13",
@@ -1544,7 +1466,7 @@
       "data": "2026-08-13",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 102
+      "quantidade": 27
     },
     {
       "data": "2026-08-13",
@@ -1646,7 +1568,7 @@
       "data": "2026-08-14",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 282
+      "quantidade": 141
     },
     {
       "data": "2026-08-14",
@@ -1712,7 +1634,7 @@
       "data": "2026-08-14",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 150
+      "quantidade": 75
     },
     {
       "data": "2026-08-14",
@@ -1766,7 +1688,7 @@
       "data": "2026-08-17",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 2
+      "quantidade": 1
     },
     {
       "data": "2026-08-17",
@@ -1814,7 +1736,7 @@
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 184
+      "quantidade": 92
     },
     {
       "data": "2026-08-17",
@@ -1880,7 +1802,7 @@
       "data": "2026-08-17",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 152
+      "quantidade": 76
     },
     {
       "data": "2026-08-17",
@@ -1976,7 +1898,7 @@
       "data": "2026-08-18",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 168
+      "quantidade": 84
     },
     {
       "data": "2026-08-18",
@@ -2042,7 +1964,7 @@
       "data": "2026-08-18",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 148
+      "quantidade": 74
     },
     {
       "data": "2026-08-18",
@@ -2150,7 +2072,7 @@
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 208
+      "quantidade": 104
     },
     {
       "data": "2026-08-19",
@@ -2216,7 +2138,7 @@
       "data": "2026-08-19",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 150
+      "quantidade": 75
     },
     {
       "data": "2026-08-19",
@@ -2276,7 +2198,7 @@
       "data": "2026-08-20",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 4
+      "quantidade": 2
     },
     {
       "data": "2026-08-20",
@@ -2324,7 +2246,7 @@
       "data": "2026-08-20",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 220
+      "quantidade": 110
     },
     {
       "data": "2026-08-20",
@@ -2402,7 +2324,7 @@
       "data": "2026-08-20",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 146
+      "quantidade": 73
     },
     {
       "data": "2026-08-20",
@@ -2468,7 +2390,7 @@
       "data": "2026-08-21",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 2
+      "quantidade": 1
     },
     {
       "data": "2026-08-21",
@@ -2498,7 +2420,7 @@
       "data": "2026-08-21",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 250
+      "quantidade": 125
     },
     {
       "data": "2026-08-21",
@@ -2552,7 +2474,7 @@
       "data": "2026-08-21",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 146
+      "quantidade": 73
     },
     {
       "data": "2026-08-21",
@@ -2618,7 +2540,7 @@
       "data": "2026-08-24",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 2
+      "quantidade": 1
     },
     {
       "data": "2026-08-24",
@@ -2654,7 +2576,7 @@
       "data": "2026-08-24",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 200
+      "quantidade": 100
     },
     {
       "data": "2026-08-24",
@@ -2720,7 +2642,7 @@
       "data": "2026-08-24",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 124
+      "quantidade": 62
     },
     {
       "data": "2026-08-24",
@@ -2780,7 +2702,7 @@
       "data": "2026-08-25",
       "linha": "EPO",
       "setor": "CORTE DO LASER",
-      "quantidade": 4
+      "quantidade": 2
     },
     {
       "data": "2026-08-25",
@@ -2816,7 +2738,7 @@
       "data": "2026-08-25",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "quantidade": 200
+      "quantidade": 100
     },
     {
       "data": "2026-08-25",
@@ -2858,7 +2780,7 @@
       "data": "2026-08-25",
       "linha": "POT",
       "setor": "CORTE DO LASER",
-      "quantidade": 2
+      "quantidade": 1
     },
     {
       "data": "2026-08-25",
@@ -2876,7 +2798,7 @@
       "data": "2026-08-25",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 136
+      "quantidade": 68
     },
     {
       "data": "2026-08-25",
@@ -3026,7 +2948,7 @@
       "data": "2026-08-26",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 76
+      "quantidade": 38
     },
     {
       "data": "2026-08-26",
@@ -3164,7 +3086,7 @@
       "data": "2026-08-27",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 16
+      "quantidade": 8
     },
     {
       "data": "2026-08-27",
@@ -3266,7 +3188,7 @@
       "data": "2026-08-28",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 16
+      "quantidade": 8
     },
     {
       "data": "2026-08-28",
@@ -3332,7 +3254,7 @@
       "data": "2026-08-31",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 12
+      "quantidade": 6
     },
     {
       "data": "2026-08-31",

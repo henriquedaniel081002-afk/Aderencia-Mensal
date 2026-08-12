@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-12T09:26:15-04:00",
+  "geradoEm": "2026-08-12T14:10:46-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -2228,13 +2228,13 @@
       "data": "2026-08-19",
       "linha": "TRI",
       "setor": "FERRAGEM",
-      "quantidade": 65
+      "quantidade": 62
     },
     {
       "data": "2026-08-19",
       "linha": "TRI",
       "setor": "ISOLANTE",
-      "quantidade": 65
+      "quantidade": 62
     },
     {
       "data": "2026-08-19",
@@ -2546,7 +2546,7 @@
       "data": "2026-08-21",
       "linha": "TRI",
       "setor": "BOBINA BT",
-      "quantidade": 65
+      "quantidade": 62
     },
     {
       "data": "2026-08-21",
@@ -2558,7 +2558,7 @@
       "data": "2026-08-21",
       "linha": "TRI",
       "setor": "CORTE DO NUCLEO",
-      "quantidade": 65
+      "quantidade": 62
     },
     {
       "data": "2026-08-21",
@@ -2720,7 +2720,7 @@
       "data": "2026-08-24",
       "linha": "TRI",
       "setor": "CORTE DO LASER",
-      "quantidade": 130
+      "quantidade": 124
     },
     {
       "data": "2026-08-24",
@@ -2744,7 +2744,7 @@
       "data": "2026-08-24",
       "linha": "TRI",
       "setor": "MONTAGEM DO NUCLEO",
-      "quantidade": 73
+      "quantidade": 92
     },
     {
       "data": "2026-08-24",
@@ -2864,7 +2864,7 @@
       "data": "2026-08-25",
       "linha": "TRI",
       "setor": "BOBINA AT",
-      "quantidade": 65
+      "quantidade": 62
     },
     {
       "data": "2026-08-25",
@@ -2900,7 +2900,7 @@
       "data": "2026-08-25",
       "linha": "TRI",
       "setor": "MONTAGEM DO NUCLEO",
-      "quantidade": 73
+      "quantidade": 61
     },
     {
       "data": "2026-08-25",
@@ -3050,7 +3050,7 @@
       "data": "2026-08-26",
       "linha": "TRI",
       "setor": "MONTAGEM DO NUCLEO",
-      "quantidade": 65
+      "quantidade": 55
     },
     {
       "data": "2026-08-26",
@@ -3074,7 +3074,7 @@
       "data": "2026-08-26",
       "linha": "TRI",
       "setor": "SOLDA",
-      "quantidade": 65
+      "quantidade": 62
     },
     {
       "data": "2026-08-27",
@@ -3188,13 +3188,13 @@
       "data": "2026-08-27",
       "linha": "TRI",
       "setor": "MPA",
-      "quantidade": 64
+      "quantidade": 61
     },
     {
       "data": "2026-08-27",
       "linha": "TRI",
       "setor": "PINTURA",
-      "quantidade": 65
+      "quantidade": 62
     },
     {
       "data": "2026-08-27",
@@ -3284,7 +3284,7 @@
       "data": "2026-08-28",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "quantidade": 65
+      "quantidade": 62
     },
     {
       "data": "2026-08-28",
@@ -5106,6 +5106,13 @@
     },
     {
       "data": "2026-08-10",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "potencia": 1000,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-10",
       "linha": "MON",
       "setor": "BOBINA AT",
       "potencia": 10,
@@ -5467,6 +5474,27 @@
       "setor": "SOLDA",
       "potencia": 150,
       "quantidade": 4
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "potencia": 112,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "potencia": 220,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "potencia": 225,
+      "quantidade": 1
     },
     {
       "data": "2026-08-11",
@@ -5892,6 +5920,13 @@
     },
     {
       "data": "2026-08-10",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "turno": "1º",
+      "quantidade": 3
+    },
+    {
+      "data": "2026-08-10",
       "linha": "MON",
       "setor": "BOBINA AT",
       "turno": "1º",
@@ -5957,6 +5992,13 @@
       "data": "2026-08-10",
       "linha": "TRI",
       "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "EPO",
+      "setor": "EPOXI",
       "turno": "1º",
       "quantidade": 1
     },
@@ -6074,6 +6116,24 @@
     },
     {
       "data": "2026-08-10",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "Montagem do gabinete 112kva cliente chibatao 90% | Oliveira 1000kva mpa 80%"
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "Não entregamos 100% motivo 3 faltas"
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "Ralison avisou que não podia vir hoje por motivo particular | Derik faltou pois a mae dele faleceu | Yan novato faltou sem justificativa"
+    },
+    {
+      "data": "2026-08-10",
       "linha": "MON",
       "setor": "BOBINA AT",
       "observacao": "Matheus atestado"
@@ -6185,6 +6245,12 @@
       "linha": "TRI",
       "setor": "MPA",
       "observacao": "1 Funcionario de férias"
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "Derick falta por luto"
     },
     {
       "data": "2026-08-11",

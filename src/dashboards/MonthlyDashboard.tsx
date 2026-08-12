@@ -5,6 +5,7 @@ import { formatNum, formatPct } from '../lib/formatters';
 import { MetricPanels } from '../components/MetricPanels';
 import { EvolutionChart } from '../components/Charts';
 import { DayDetailModal, type DetalheProducao, type Falta, type Observacao } from '../components/DayDetailModal';
+import { EpoxiDashboard } from './EpoxiDashboard';
 import type { EvolutionItem } from '../components/Charts';
 import dadosJson from '../data/aderenciaMensal.json';
 
@@ -25,6 +26,14 @@ export function MonthlyDashboard({ onLogout }: { onLogout: () => void }) {
   const [linha, setLinha] = useState('Todas');
   const [turno, setTurno] = useState('Todos');
   const [diaSelecionado, setDiaSelecionado] = useState<EvolutionItem | null>(null);
+  const setorOptions = useMemo(() => dados.filtros.setores.includes('EPOXI') ? dados.filtros.setores : [...dados.filtros.setores, 'EPOXI'], []);
+  const isEpoxi = setor === 'EPOXI';
+  const handleSetor = (value:string) => {
+    setSetor(value);
+    setDiaSelecionado(null);
+    if (value === 'EPOXI') setLinha('EPO');
+    else if (setor === 'EPOXI') setLinha('Todas');
+  };
 
   const calculado = useMemo(() => {
     const prog = dados.programacao.filter(r => r.data.startsWith(mes) && (linha==='Todas'||r.linha===linha) && r.setor===setor);
@@ -50,7 +59,7 @@ export function MonthlyDashboard({ onLogout }: { onLogout: () => void }) {
     return {porDia:dadosGrafico,programadoTotal,programadoParcial,produzidoParcial,diasRegistro,mediaProgramada,mediaProduzida,aderenciaMensal,alcanceMeta};
   }, [mes,setor,linha,turno]);
 
-  const limpar = () => { setMes(defaultMes); setSetor(defaultSetor); setLinha('Todas'); setTurno('Todos'); };
+  const limpar = () => { setMes(defaultMes); setSetor(defaultSetor); setLinha('Todas'); setTurno('Todos'); setDiaSelecionado(null); };
   const filtrosAtivos = mes !== defaultMes || linha !== 'Todas' || setor !== defaultSetor || turno !== 'Todos';
 
   return (
@@ -61,33 +70,43 @@ export function MonthlyDashboard({ onLogout }: { onLogout: () => void }) {
         <div className="dashboard-content">
           <FilterBar onClear={limpar} clearDisabled={!filtrosAtivos}>
             <FilterSelect id="filtro-mes" label="Mês" options={dados.periodo.meses} selected={mes} onSelect={setMes} formatOption={mesLabel} active={mes !== defaultMes} />
-            <FilterSelect id="filtro-linha" label="Linha" options={['Todas',...dados.filtros.linhas]} selected={linha} onSelect={setLinha} formatOption={(option) => option === 'Todas' ? 'Todos' : option} active={linha !== 'Todas'} compact />
-            <FilterSelect id="filtro-setor" label="Setor" options={dados.filtros.setores} selected={setor} onSelect={setSetor} defaultValue={defaultSetor} />
+            <FilterSelect id="filtro-linha" label="Linha" options={isEpoxi ? ['EPO'] : ['Todas',...dados.filtros.linhas]} selected={isEpoxi ? 'EPO' : linha} onSelect={setLinha} formatOption={(option) => option === 'Todas' ? 'Todos' : option} active={isEpoxi || linha !== 'Todas'} compact />
+            <FilterSelect id="filtro-setor" label="Setor" options={setorOptions} selected={setor} onSelect={handleSetor} defaultValue={defaultSetor} />
             <FilterSelect id="filtro-turno" label="Turno" options={['Todos',...dados.filtros.turnos]} selected={turno} onSelect={setTurno} active={turno !== 'Todos'} compact />
           </FilterBar>
 
-          <main className="dashboard-main">
-            <MetricPanels
-              adherence={{ value: calculado.programadoParcial?formatPct(calculado.aderenciaMensal):'—', trend: calculado.aderenciaMensal>=100?'up':'down' }}
-              goal={{ value: calculado.programadoTotal?formatPct(calculado.alcanceMeta):'—', percent: Math.min(calculado.alcanceMeta,100) }}
-              auxiliary={{
-                programmedAverage: formatNum(calculado.mediaProgramada,2),
-                producedAverage: formatNum(calculado.mediaProduzida,2),
-                producedAverageTrend: calculado.mediaProduzida>=calculado.mediaProgramada?'up':'down',
-                workingDays: String(calculado.diasRegistro),
-              }}
-              operational={{
-                partialProgrammed: formatNum(calculado.programadoParcial),
-                partialProduced: formatNum(calculado.produzidoParcial),
-                partialProducedTrend: calculado.produzidoParcial>=calculado.programadoParcial?'up':'down',
-                totalProgrammed: formatNum(calculado.programadoTotal),
-              }}
+          {isEpoxi ? (
+            <EpoxiDashboard
+              mes={mes}
+              turno={turno}
+              detalhes={dados.detalhesProducao ?? []}
+              faltas={dados.faltas ?? []}
+              observacoes={dados.observacoes ?? []}
             />
-            <EvolutionChart data={calculado.porDia} mesLabel={mesLabel(mes)} onDayClick={setDiaSelecionado} />
-          </main>
+          ) : (
+            <main className="dashboard-main">
+              <MetricPanels
+                adherence={{ value: calculado.programadoParcial?formatPct(calculado.aderenciaMensal):'—', trend: calculado.aderenciaMensal>=100?'up':'down' }}
+                goal={{ value: calculado.programadoTotal?formatPct(calculado.alcanceMeta):'—', percent: Math.min(calculado.alcanceMeta,100) }}
+                auxiliary={{
+                  programmedAverage: formatNum(calculado.mediaProgramada,2),
+                  producedAverage: formatNum(calculado.mediaProduzida,2),
+                  producedAverageTrend: calculado.mediaProduzida>=calculado.mediaProgramada?'up':'down',
+                  workingDays: String(calculado.diasRegistro),
+                }}
+                operational={{
+                  partialProgrammed: formatNum(calculado.programadoParcial),
+                  partialProduced: formatNum(calculado.produzidoParcial),
+                  partialProducedTrend: calculado.produzidoParcial>=calculado.programadoParcial?'up':'down',
+                  totalProgrammed: formatNum(calculado.programadoTotal),
+                }}
+              />
+              <EvolutionChart data={calculado.porDia} mesLabel={mesLabel(mes)} onDayClick={setDiaSelecionado} />
+            </main>
+          )}
         </div>
       </div>
-      {diaSelecionado && (
+      {!isEpoxi && diaSelecionado && (
         <DayDetailModal
           item={diaSelecionado}
           setor={setor}

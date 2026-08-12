@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-12T09:14:01-04:00",
+  "geradoEm": "2026-08-12T09:26:15-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -5527,6 +5527,34 @@
     {
       "data": "2026-08-11",
       "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 5,
+      "quantidade": 101
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 10,
+      "quantidade": 10
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 15,
+      "quantidade": 26
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 25,
+      "quantidade": 4
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
       "potencia": 10,
       "quantidade": 24
@@ -5691,6 +5719,13 @@
       "setor": "CORTE DO LASER",
       "potencia": 150,
       "quantidade": 40
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 75,
+      "quantidade": 75
     },
     {
       "data": "2026-08-11",
@@ -5949,6 +5984,13 @@
     {
       "data": "2026-08-11",
       "linha": "MON",
+      "setor": "ISOLANTE",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
       "turno": "2º",
       "quantidade": 1
@@ -6167,6 +6209,12 @@
       "linha": "MON",
       "setor": "CORTE DO LASER",
       "observacao": "Jose contusao no braço | Carlos contusao no ombro | Dimitri passou a informação para o RH | Theyfo a filha quebrou a perna"
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "observacao": "Alessandro suspenso por 3 dias | Maquina de empapelar fio ainda em manutencao desde o dia 10/08 as 20:00"
     },
     {
       "data": "2026-08-11",

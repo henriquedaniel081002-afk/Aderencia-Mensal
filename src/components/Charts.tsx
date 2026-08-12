@@ -185,7 +185,7 @@ export function EvolutionChart({ data, mesLabel, onDayClick }: { data: Evolution
                       position="top"
                       offset={7}
                       fill="#f7f9fc"
-                      fontSize={10}
+                      fontSize={12}
                       fontWeight={800}
                       formatter={formatBarLabel}
                     />
@@ -216,7 +216,7 @@ export function EvolutionChart({ data, mesLabel, onDayClick }: { data: Evolution
                       position="top"
                       offset={7}
                       fill="#f7f9fc"
-                      fontSize={10}
+                      fontSize={12}
                       fontWeight={800}
                       formatter={formatBarLabel}
                     />

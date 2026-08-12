@@ -1,12 +1,14 @@
 import { useId } from 'react';
+import type { CSSProperties } from 'react';
 import type { LucideIcon } from 'lucide-react';
 import {
-  BarChart3,
   CalendarDays,
   CalendarRange,
+  CheckCircle2,
   Flag,
   Info,
   Scale,
+  Target,
   TrendingDown,
   TrendingUp,
 } from 'lucide-react';
@@ -40,100 +42,99 @@ export type MetricPanelsProps = {
 
 export function MetricPanels({ adherence, goal, auxiliary, operational }: MetricPanelsProps) {
   const prefersReducedMotion = useReducedMotion();
-  const entrance = prefersReducedMotion ? { opacity: 0 } : { opacity: 0, y: 10 };
+  const entrance = prefersReducedMotion ? { opacity: 0 } : { opacity: 0, y: 8 };
   const transition = { duration: prefersReducedMotion ? 0 : 0.28, ease: 'easeOut' as const };
 
   return (
     <MotionConfig reducedMotion="user">
-      <div className="space-y-3.5">
-        <div className="metrics-main-grid">
-          <motion.div initial={entrance} animate={{ opacity: 1, y: 0 }} transition={transition}>
-            <AdherenceSignal value={adherence.value} trend={adherence.trend} />
-          </motion.div>
+      <section className="metrics-control-grid" aria-label="Indicadores do período">
+        <motion.div initial={entrance} animate={{ opacity: 1, y: 0 }} transition={transition}>
+          <AdherenceGauge value={adherence.value} trend={adherence.trend} />
+        </motion.div>
 
-          <motion.div
-            initial={entrance}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ ...transition, delay: prefersReducedMotion ? 0 : 0.04 }}
-          >
-            <GoalSignal value={goal.value} percent={goal.percent} />
-          </motion.div>
-
-          <motion.aside
-            initial={entrance}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ ...transition, delay: prefersReducedMotion ? 0 : 0.08 }}
-            className="auxiliary-panel"
-            aria-labelledby="auxiliary-metrics-title"
-          >
-            <h3 id="auxiliary-metrics-title" className="metric-card-kicker text-text-primary">Indicadores auxiliares</h3>
-            <div className="auxiliary-panel__grid">
-              <CompactMetric
-                title="Média Programada"
-                value={auxiliary.programmedAverage}
-                description="Programado parcial / dias úteis"
-                icon={Scale}
-                accent="blue"
-              />
-              <CompactMetric
-                title="Média Produzida"
-                value={auxiliary.producedAverage}
-                description="Produzido parcial / dias úteis"
-                icon={TrendingUp}
-                trend={auxiliary.producedAverageTrend}
-                accent="green"
-              />
-              <CompactMetric
-                title="Dias Úteis"
-                value={auxiliary.workingDays}
-                description="Dias com registro no apontamento"
-                icon={CalendarDays}
-                accent="amber"
-              />
-            </div>
-          </motion.aside>
-        </div>
-
-        <motion.section
+        <motion.div
           initial={entrance}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ ...transition, delay: prefersReducedMotion ? 0 : 0.1 }}
-          className="operational-panel"
-          aria-labelledby="operational-metrics-title"
+          transition={{ ...transition, delay: prefersReducedMotion ? 0 : 0.04 }}
         >
-          <div className="operational-panel__heading">
-            <span className="operational-panel__heading-icon" aria-hidden="true">
-              <BarChart3 className="size-5" />
-            </span>
-            <h3 id="operational-metrics-title">Volumes<br />do período</h3>
+          <GoalGauge value={goal.value} percent={goal.percent} />
+        </motion.div>
+
+        <motion.aside
+          initial={entrance}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ ...transition, delay: prefersReducedMotion ? 0 : 0.08 }}
+          className="control-auxiliary-panel"
+          aria-labelledby="auxiliary-metrics-title"
+        >
+          <div className="control-panel-heading">
+            <span />
+            <h3 id="auxiliary-metrics-title">Indicadores auxiliares</h3>
+            <span />
           </div>
 
-          <OperationalMetric
+          <div className="control-auxiliary-grid">
+            <AuxiliaryMetric
+              title="Média Programada"
+              value={auxiliary.programmedAverage}
+              description="Programado parcial / dias úteis"
+              icon={Scale}
+              accent="green"
+            />
+            <AuxiliaryMetric
+              title="Média Produzida"
+              value={auxiliary.producedAverage}
+              description="Produzido parcial / dias úteis"
+              icon={TrendingUp}
+              trend={auxiliary.producedAverageTrend}
+              accent="blue"
+            />
+            <AuxiliaryMetric
+              title="Dias Úteis"
+              value={auxiliary.workingDays}
+              description="Dias com registro no apontamento"
+              icon={CalendarDays}
+              accent="amber"
+            />
+          </div>
+        </motion.aside>
+
+        <motion.div
+          initial={entrance}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ ...transition, delay: prefersReducedMotion ? 0 : 0.12 }}
+          className="control-operational-grid"
+          aria-label="Volumes programados e produzidos"
+        >
+          <OperationalCard
             title="Programado Parcial"
             value={operational.partialProgrammed}
             description="Programado até o dia anterior"
             icon={CalendarRange}
+            accent="blue"
           />
-          <OperationalMetric
+          <OperationalCard
             title="Produzido Parcial"
             value={operational.partialProduced}
             description="Produzido até o dia anterior"
-            icon={CalendarRange}
+            icon={CheckCircle2}
             trend={operational.partialProducedTrend}
+            accent="green"
           />
-          <OperationalMetric
+          <OperationalCard
             title="Programado Total"
             value={operational.totalProgrammed}
             description="Programação completa do mês"
             icon={Flag}
+            accent="violet"
           />
-        </motion.section>
-      </div>
+        </motion.div>
+      </section>
     </MotionConfig>
   );
 }
 
-function AdherenceSignal({ value, trend }: { value: string; trend: MetricTrend }) {
+function AdherenceGauge({ value, trend }: { value: string; trend: MetricTrend }) {
   const titleId = useId();
   const descriptionId = useId();
   const isPositive = trend === 'up';
@@ -142,83 +143,60 @@ function AdherenceSignal({ value, trend }: { value: string; trend: MetricTrend }
 
   return (
     <article
-      className={cn('adherence-card', isPositive ? 'adherence-card--positive' : 'adherence-card--negative')}
+      className={cn('control-primary-card', 'control-primary-card--adherence', !isPositive && 'control-primary-card--danger')}
       aria-labelledby={titleId}
       aria-describedby={descriptionId}
     >
-      <div className="relative z-10">
-        <h3 id={titleId} className={cn('metric-card-kicker', isPositive ? 'text-status-success' : 'text-status-danger')}>
-          Aderência mensal
-        </h3>
-        <div className="mt-4 flex flex-wrap items-end gap-4">
-          <span className={cn('metric-hero-value', isPositive ? 'text-status-success' : 'text-status-danger')}>{value}</span>
-          <TrendBadge trend={trend} />
+      <div className={cn('control-gauge', !isPositive && 'control-gauge--danger')} style={{ '--gauge-progress': `${progress * 3.6}deg` } as CSSProperties} aria-hidden="true">
+        <div className="control-gauge__inner">
+          {isPositive ? <TrendingUp className="size-7" /> : <TrendingDown className="size-7" />}
         </div>
       </div>
 
-      <svg className="adherence-card__spark" viewBox="0 0 260 95" preserveAspectRatio="none" aria-hidden="true">
-        <defs>
-          <linearGradient id="sparkFade" x1="0" y1="0" x2="1" y2="0">
-            <stop offset="0" stopColor="currentColor" stopOpacity="0" />
-            <stop offset="0.48" stopColor="currentColor" stopOpacity="0.05" />
-            <stop offset="1" stopColor="currentColor" stopOpacity="0.62" />
-          </linearGradient>
-        </defs>
-        <path d="M0 78 C42 78 67 76 92 75 C126 74 132 65 150 49 C169 32 178 25 204 15 C225 7 241 8 260 5" fill="none" stroke="url(#sparkFade)" strokeWidth="2" strokeDasharray="3 4" />
-      </svg>
-
-      <div className="relative z-10 mt-auto">
-        <div className="metric-progress metric-progress--green">
-          <span style={{ width: `${progress}%` }} />
+      <div className="control-primary-card__body">
+        <h3 id={titleId}>Aderência mensal</h3>
+        <span className={cn('control-primary-value', isPositive ? 'text-[#27d7a3]' : 'text-[#ef6764]')}>{value}</span>
+        <TrendBadge trend={trend} />
+        <div className="control-scale" aria-hidden="true">
+          <span className="control-scale__fill control-scale__fill--green" style={{ width: `${progress}%` }} />
         </div>
-        <div className="metric-progress-labels"><span>0%</span><span>100%</span><span>150%</span></div>
-        <p id={descriptionId} className="metric-description">
-          <Info className="size-3.5" aria-hidden="true" />
-          Produzido parcial / programado parcial
-        </p>
+        <div className="control-scale__labels"><span>0%</span><span>100%</span><span>150%</span></div>
+        <p id={descriptionId}><Info className="size-3.5" /> Produzido parcial / programado parcial</p>
       </div>
     </article>
   );
 }
 
-function GoalSignal({ value, percent }: { value: string; percent: number }) {
+function GoalGauge({ value, percent }: { value: string; percent: number }) {
   const titleId = useId();
   const descriptionId = useId();
   const safePercent = Number.isFinite(percent) ? Math.min(Math.max(percent, 0), 100) : 0;
 
   return (
-    <article className="goal-card" aria-labelledby={titleId} aria-describedby={descriptionId}>
-      <div className="relative z-10">
-        <h3 id={titleId} className="metric-card-kicker text-status-planned">Alcance de meta</h3>
-        <span className="metric-hero-value mt-4 block text-white">{value}</span>
+    <article className="control-primary-card control-primary-card--goal" aria-labelledby={titleId} aria-describedby={descriptionId}>
+      <div className="control-gauge control-gauge--blue" style={{ '--gauge-progress': `${safePercent * 3.6}deg` } as CSSProperties} aria-hidden="true">
+        <div className="control-gauge__inner"><Target className="size-7" /></div>
       </div>
 
-      <div className="target-graphic" aria-hidden="true">
-        <span className="target-ring target-ring--1" />
-        <span className="target-ring target-ring--2" />
-        <span className="target-ring target-ring--3" />
-        <span className="target-dot" />
-        <span className="target-arrow">➤</span>
-      </div>
-
-      <div className="relative z-10 mt-auto">
-        <div className="metric-progress metric-progress--blue" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={safePercent}>
+      <div className="control-primary-card__body">
+        <h3 id={titleId}>Alcance de meta</h3>
+        <span className="control-primary-value text-[#3c95ff]">{value}</span>
+        <div className="control-scale" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={safePercent}>
           <motion.span
+            className="control-scale__fill control-scale__fill--blue"
             initial={{ width: 0 }}
             animate={{ width: `${safePercent}%` }}
-            transition={{ duration: 0.6, ease: 'easeOut' }}
+            transition={{ duration: 0.55, ease: 'easeOut' }}
           />
         </div>
-        <p id={descriptionId} className="metric-description mt-5">
-          <Info className="size-3.5" aria-hidden="true" />
-          Produzido parcial / programado total
-        </p>
+        <div className="control-scale__labels"><span>0%</span><span>100%</span></div>
+        <p id={descriptionId}><Info className="size-3.5" /> Produzido parcial / programado total</p>
       </div>
     </article>
   );
 }
 
-function CompactMetric({
+function AuxiliaryMetric({
   title,
   value,
   description,
@@ -231,52 +209,50 @@ function CompactMetric({
   description: string;
   icon: LucideIcon;
   trend?: MetricTrend;
-  accent: 'blue' | 'green' | 'amber';
+  accent: 'green' | 'blue' | 'amber';
 }) {
   return (
-    <article className="auxiliary-metric">
-      <span className={`auxiliary-metric__icon auxiliary-metric__icon--${accent}`} aria-hidden="true">
-        <Icon className="size-[19px]" />
-      </span>
-      <h4>{title}</h4>
-      <div className="mt-2 flex flex-wrap items-center gap-2">
-        <span className="auxiliary-metric__value">{value}</span>
-        {trend && <TrendBadge trend={trend} compact />}
+    <article className="control-auxiliary-metric">
+      <span className={`control-round-icon control-round-icon--${accent}`} aria-hidden="true"><Icon className="size-5" /></span>
+      <div className="control-auxiliary-metric__content">
+        <h4>{title}</h4>
+        <div className="control-auxiliary-metric__value-row">
+          <strong>{value}</strong>
+          {trend && <TrendBadge trend={trend} compact />}
+        </div>
+        <p>{description}</p>
       </div>
-      <p>{description}</p>
     </article>
   );
 }
 
-function OperationalMetric({
+function OperationalCard({
   title,
   value,
   description,
   icon: Icon,
   trend,
+  accent,
 }: {
   title: string;
   value: string;
   description: string;
   icon: LucideIcon;
   trend?: MetricTrend;
+  accent: 'blue' | 'green' | 'violet';
 }) {
   return (
-    <article className="operational-metric">
-      <div className="min-w-0">
-        <h4>{title}</h4>
-        <div className="mt-2.5 flex flex-wrap items-center gap-3">
-          <span className="operational-metric__value">{value}</span>
-          {trend && <TrendBadge trend={trend} />}
-        </div>
-        <p className="metric-description mt-2.5">
-          {description}
-          <Info className="size-3.5" aria-hidden="true" />
-        </p>
-      </div>
-      <span className="operational-metric__icon" aria-hidden="true">
-        <Icon className="size-6" />
+    <article className={`control-operational-card control-operational-card--${accent}`}>
+      <span className={`control-operational-card__icon control-operational-card__icon--${accent}`} aria-hidden="true">
+        <Icon className="size-5" />
       </span>
+      <h4>{title}</h4>
+      <div className="control-operational-card__value-row">
+        <strong>{value}</strong>
+        {trend && <TrendBadge trend={trend} compact />}
+      </div>
+      <p>{description}</p>
+      <span className="control-operational-card__accent" aria-hidden="true" />
     </article>
   );
 }

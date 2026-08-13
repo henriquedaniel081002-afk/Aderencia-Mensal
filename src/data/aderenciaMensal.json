@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-13T08:34:46-04:00",
+  "geradoEm": "2026-08-13T08:53:36-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -6079,6 +6079,27 @@
     {
       "data": "2026-08-12",
       "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 10,
+      "quantidade": 12
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 15,
+      "quantidade": 30
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 25,
+      "quantidade": 50
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
       "potencia": 5,
       "quantidade": 40
@@ -6089,6 +6110,27 @@
       "setor": "MONTAGEM DO NUCLEO",
       "potencia": 10,
       "quantidade": 90
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 10,
+      "quantidade": 23
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 15,
+      "quantidade": 39
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 25,
+      "quantidade": 53
     },
     {
       "data": "2026-08-12",
@@ -6110,6 +6152,20 @@
       "setor": "PINTURA",
       "potencia": 25,
       "quantidade": 10
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "potencia": 5,
+      "quantidade": 15
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "potencia": 10,
+      "quantidade": 50
     },
     {
       "data": "2026-08-12",
@@ -6177,6 +6233,27 @@
     {
       "data": "2026-08-12",
       "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 30,
+      "quantidade": 12
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 75,
+      "quantidade": 50
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 112.5,
+      "quantidade": 11
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "TRI",
       "setor": "MONTAGEM DO NUCLEO",
       "potencia": 75,
       "quantidade": 67
@@ -6194,6 +6271,27 @@
       "setor": "MONTAGEM DO NUCLEO",
       "potencia": 150,
       "quantidade": 3
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 45,
+      "quantidade": 64
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 112.5,
+      "quantidade": 3
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 150,
+      "quantidade": 14
     },
     {
       "data": "2026-08-12",
@@ -6236,6 +6334,20 @@
       "setor": "PINTURA",
       "potencia": 150,
       "quantidade": 17
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "potencia": 45,
+      "quantidade": 26
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "potencia": 75,
+      "quantidade": 78
     }
   ],
   "faltas": [
@@ -6445,7 +6557,21 @@
     {
       "data": "2026-08-12",
       "linha": "MON",
+      "setor": "ISOLANTE",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
       "turno": "1º",
       "quantidade": 1
     },
@@ -6773,6 +6899,18 @@
     {
       "data": "2026-08-12",
       "linha": "MON",
+      "setor": "ISOLANTE",
+      "observacao": "Colaborador Alessandro Andrade suspenso"
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "4 PEÇAS NÃO CONFOMES, 1 PEÇA RETRABALHADA DA MONTAGEM FINAL"
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
       "setor": "PINTURA",
       "observacao": "1 Colaborador deslocado para a expedição"
     },
@@ -6781,6 +6919,12 @@
       "linha": "MON",
       "setor": "PINTURA",
       "observacao": "Wellerson falta suspensao 3 dias | David colaborador saiu por acidente de trabalho 11:10"
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "Tivemos falta de suporte de porte para dar continuidade no processo do 10kVA OP.42050. Com isso foi feito uma manobra para não ter impacto na produção e sequência na programação dando prioridade ao 45kVA OP.42138 e em seguida no 75kVA OP.42186."
     },
     {
       "data": "2026-08-12",

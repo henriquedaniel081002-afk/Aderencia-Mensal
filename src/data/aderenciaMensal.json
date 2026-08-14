@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-14T09:40:42-04:00",
+  "geradoEm": "2026-08-14T09:53:08-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -6753,21 +6753,21 @@
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
       "potencia": 45,
-      "quantidade": 128
+      "quantidade": 64
     },
     {
       "data": "2026-08-13",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
       "potencia": 75,
-      "quantidade": 20
+      "quantidade": 10
     },
     {
       "data": "2026-08-13",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
       "potencia": 150,
-      "quantidade": 12
+      "quantidade": 6
     },
     {
       "data": "2026-08-13",
@@ -7490,12 +7490,6 @@
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
       "observacao": "Termovácuo em manutenção sem impacto na produção 16:00 hrs"
-    },
-    {
-      "data": "2026-08-13",
-      "linha": "TRI",
-      "setor": "MONTAGEM FINAL",
-      "observacao": "Termovácuo em manutenção sem impacto na produção as 16:00 hrs"
     },
     {
       "data": "2026-08-13",

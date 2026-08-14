@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-14T10:19:34-04:00",
+  "geradoEm": "2026-08-14T13:09:22-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -7459,6 +7459,12 @@
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "BOBINA AT",
+      "observacao": "Anderson Bruno atestado"
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "BOBINA AT",
       "observacao": "Maquina AT001 paradas de manutenção corretiva 10:45 - 12:20 | 15:40 | AT018 parada de manutenção 14:01 - 14:40"
     },
     {
@@ -7466,6 +7472,12 @@
       "linha": "MON",
       "setor": "BOBINA BT",
       "observacao": "75 kva reforma | 3 bobinas"
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Falta de Agno Nunes (Não informada)"
     },
     {
       "data": "2026-08-13",
@@ -7482,8 +7494,32 @@
     {
       "data": "2026-08-13",
       "linha": "MON",
+      "setor": "MPA",
+      "observacao": "Bruno Marinho 1 atestado médico , Sergio Correia saiu as 14h com declaração de comparecimento"
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
       "setor": "PINTURA",
       "observacao": "2 Colaboradores ausentes | velocidade da linha reduzida para 0,8 pois estava parando muito na cabine do branco | 75 neoenergia | dif - 24 pcs"
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Antonio carlos sem justificativa"
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Wellerson sina suspenso | David mendonca atestado medico |"
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "observacao": "Colaborador Alessandro Andrade esta suspenso"
     },
     {
       "data": "2026-08-13",

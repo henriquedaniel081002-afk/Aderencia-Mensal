@@ -76,7 +76,7 @@ export function LoginScreen({ onLogin }: LoginScreenProps) {
             <img
               src={itamTransformadoresLogo}
               alt="ITAM Transformadores"
-              className="h-auto w-[clamp(220px,22vw,280px)] max-w-full select-none object-contain object-left"
+              className="h-auto max-h-[180px] w-[clamp(240px,28vw,360px)] max-w-full select-none object-contain object-left"
               draggable={false}
             />
           </div>

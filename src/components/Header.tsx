@@ -55,7 +55,7 @@ export function Header({ period, generatedAt, onLogout }: HeaderProps) {
           <img
             src={itamTransformadoresLogo}
             alt="ITAM Transformadores"
-            className="h-auto w-[118px] select-none object-contain sm:w-[145px] lg:w-[165px]"
+            className="h-auto max-h-[60px] w-[110px] select-none object-contain sm:w-[128px] lg:max-h-[66px] lg:w-[138px]"
             draggable={false}
           />
         </div>

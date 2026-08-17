@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-14T13:09:22-04:00",
+  "geradoEm": "2026-08-17T07:59:19-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -4854,7 +4854,7 @@
       "linha": "MON",
       "setor": "PINTURA",
       "turno": "1º",
-      "quantidade": 11
+      "quantidade": 12
     },
     {
       "data": "2026-08-12",
@@ -5134,7 +5134,7 @@
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
       "turno": "1º",
-      "quantidade": 80
+      "quantidade": 81
     },
     {
       "data": "2026-08-13",
@@ -5170,6 +5170,188 @@
       "setor": "SOLDA",
       "turno": "2º",
       "quantidade": 56
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "turno": "1º",
+      "quantidade": 73
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "turno": "2º",
+      "quantidade": 55
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "turno": "1º",
+      "quantidade": 73
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "turno": "2º",
+      "quantidade": 69
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "CORTE DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 160
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "turno": "1º",
+      "quantidade": 105
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 160
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 126
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 124
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "turno": "1º",
+      "quantidade": 75
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "turno": "2º",
+      "quantidade": 55
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "turno": "1º",
+      "quantidade": 21
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "turno": "2º",
+      "quantidade": 133
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "turno": "1º",
+      "quantidade": 48
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "turno": "2º",
+      "quantidade": 27
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "turno": "1º",
+      "quantidade": 45
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "turno": "2º",
+      "quantidade": 41
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "CORTE DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 103
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "turno": "1º",
+      "quantidade": 78
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 77
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 73
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 60
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "turno": "1º",
+      "quantidade": 18
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "turno": "2º",
+      "quantidade": 31
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "turno": "1º",
+      "quantidade": 53
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "turno": "2º",
+      "quantidade": 1
     }
   ],
   "detalhesProducao": [

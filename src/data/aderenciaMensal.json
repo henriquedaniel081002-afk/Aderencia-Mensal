@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-18T09:40:31-04:00",
+  "geradoEm": "2026-08-18T10:06:44-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -7605,6 +7605,27 @@
     {
       "data": "2026-08-17",
       "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 10,
+      "quantidade": 52
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 15,
+      "quantidade": 57
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 25,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
       "potencia": 5,
       "quantidade": 45
@@ -7745,6 +7766,27 @@
     {
       "data": "2026-08-17",
       "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 30,
+      "quantidade": 45
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 75,
+      "quantidade": 8
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 150,
+      "quantidade": 20
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
       "setor": "MONTAGEM DO NUCLEO",
       "potencia": 75,
       "quantidade": 12
@@ -7762,6 +7804,34 @@
       "setor": "MONTAGEM DO NUCLEO",
       "potencia": 300,
       "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 45,
+      "quantidade": 4
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 112,
+      "quantidade": 46
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 150,
+      "quantidade": 5
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 300,
+      "quantidade": 3
     },
     {
       "data": "2026-08-17",
@@ -8815,6 +8885,12 @@
       "linha": "MON",
       "setor": "SOLDA",
       "observacao": "O colaborador apresentou hoje dia 18/08/26 declaração referente ao dia 17/08"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Deixamos de montar 10 pcs 112,5 por conta da divergencia com tanques (tanques empenados e atraso na entrega do setor de pintura)"
     },
     {
       "data": "2026-08-17",

@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-18T07:38:46-04:00",
+  "geradoEm": "2026-08-18T09:20:51-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -5526,7 +5526,7 @@
       "linha": "TRI",
       "setor": "CORTE DO LASER",
       "turno": "1º",
-      "quantidade": 18
+      "quantidade": 38
     },
     {
       "data": "2026-08-17",
@@ -7510,6 +7510,328 @@
       "setor": "PINTURA",
       "potencia": 300,
       "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "potencia": 112,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 5,
+      "quantidade": 75
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 10,
+      "quantidade": 26
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 15,
+      "quantidade": 36
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 25,
+      "quantidade": 5
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 5,
+      "quantidade": 3
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 10,
+      "quantidade": 19
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 15,
+      "quantidade": 56
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 25,
+      "quantidade": 23
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "potencia": 10,
+      "quantidade": 5
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "potencia": 15,
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "potencia": 75,
+      "quantidade": 20
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "potencia": 300,
+      "quantidade": 3
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 5,
+      "quantidade": 45
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 10,
+      "quantidade": 22
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 15,
+      "quantidade": 56
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 5,
+      "quantidade": 113
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 10,
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 25,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 5,
+      "quantidade": 130
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 10,
+      "quantidade": 3
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 15,
+      "quantidade": 7
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "potencia": 5,
+      "quantidade": 126
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "potencia": 300,
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "potencia": 5,
+      "quantidade": 98
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "potencia": 30,
+      "quantidade": 56
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "potencia": 75,
+      "quantidade": 7
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "potencia": 150,
+      "quantidade": 13
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "potencia": 300,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "potencia": 30,
+      "quantidade": 46
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "potencia": 150,
+      "quantidade": 8
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "CORTE DO LASER",
+      "potencia": 112.5,
+      "quantidade": 30
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "CORTE DO LASER",
+      "potencia": 150,
+      "quantidade": 25
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 75,
+      "quantidade": 12
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 150,
+      "quantidade": 47
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 300,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MPA",
+      "potencia": 45,
+      "quantidade": 24
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MPA",
+      "potencia": 75,
+      "quantidade": 22
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MPA",
+      "potencia": 150,
+      "quantidade": 19
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "potencia": 45,
+      "quantidade": 8
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "potencia": 75,
+      "quantidade": 24
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "potencia": 112.5,
+      "quantidade": 33
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "potencia": 150,
+      "quantidade": 4
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "potencia": 225,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "potencia": 75,
+      "quantidade": 50
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "potencia": 150,
+      "quantidade": 25
     }
   ],
   "faltas": [
@@ -7839,6 +8161,62 @@
       "data": "2026-08-14",
       "linha": "TRI",
       "setor": "BOBINA AT",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "turno": "2º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "turno": "2º",
+      "quantidade": 3
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "turno": "2º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 4
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MPA",
       "turno": "1º",
       "quantidade": 1
     }
@@ -8347,6 +8725,108 @@
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
       "observacao": "Megagem baixa, 150 kVA 5 peças"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "225kva montagem de gabinete 100%"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Faltou bobina de BT do 150 KVA lote de 80 TRAFOS CEMIG,devido barra chata da BT."
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Máquina de AT 001 parada para manutenção corretiva. Freio e pedal Parada de 20 minutos"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Geovane Lima da Silva Sem justificativa até o momento"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Manutenção corretiva na bobinadeira BT 003 Painel de comando, início as 07.20 até às 8"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Tiveram vários problemas ontem no processo. 1 . Demora do fio do almoxarifado em chegar no setor 7,5x5,5 parada de 20 minutos cada operador. 2.Maquina de BT 009 fez monofásico,25 KVA 3.Barra chata do 150 KVA CEMIG lote de 80 TRAFOS com trinca no processo, engenharia fez desvio na dobra para poder usar material, parada 12.25 até às 16.10"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "observacao": "josé alan está com atestado de 15 dias. Carlos henrique está com lesão no ombro. Theylo martin estava com a filha no hospital devido a uma fratura na perna."
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "observacao": "produção abaixo devido a falta da programação."
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Agno nunes sem justificativa"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Meta nao atingida devido potencias ser acima da capacidade"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Iarlem Igo FariasMelo Não justificou"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "Felipe Nogueira de Assis - Atestado; Bruno Marinho Guedes - Atestado via App; Marclevado dos Santos Ribeiro - Falta sem justificativa; Matheus Lopes - Falta sem Justificativa"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Causa - Mangueira da pistola do branco entupiu. Ação tomada- troca da mangueira de tinta e das conexões. Tempo de parada - Das 7:50 as 8:20"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Sem justificativa Rafael frank"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "O colaborador apresentou hoje dia 18/08/26 declaração referente ao dia 17/08"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "Potencia transformador diferente da estipulado para o dia na programação"
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "Vinicius sena ferias | Wendell atestado"
     }
   ]
 }

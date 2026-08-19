@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-19T07:34:34-04:00",
+  "geradoEm": "2026-08-19T09:22:15-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -5664,6 +5664,13 @@
     {
       "data": "2026-08-18",
       "linha": "MON",
+      "setor": "ISOLANTE",
+      "turno": "1º",
+      "quantidade": 125
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
       "turno": "1º",
       "quantidade": 80
@@ -5680,7 +5687,7 @@
       "linha": "MON",
       "setor": "MPA",
       "turno": "1º",
-      "quantidade": 138
+      "quantidade": 137
     },
     {
       "data": "2026-08-18",
@@ -5762,6 +5769,13 @@
     {
       "data": "2026-08-18",
       "linha": "TRI",
+      "setor": "ISOLANTE",
+      "turno": "1º",
+      "quantidade": 69
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
       "setor": "MONTAGEM DO NUCLEO",
       "turno": "1º",
       "quantidade": 80
@@ -5771,7 +5785,7 @@
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
       "turno": "1º",
-      "quantidade": 68
+      "quantidade": 70
     },
     {
       "data": "2026-08-18",
@@ -8112,6 +8126,279 @@
       "setor": "SOLDA",
       "potencia": 150,
       "quantidade": 25
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 15,
+      "quantidade": 23
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 25,
+      "quantidade": 74
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 30,
+      "quantidade": 53
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 75,
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 150,
+      "quantidade": 18
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 15,
+      "quantidade": 69
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 25,
+      "quantidade": 55
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 30,
+      "quantidade": 35
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 75,
+      "quantidade": 9
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 150,
+      "quantidade": 19
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 10,
+      "quantidade": 125
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 5,
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 25,
+      "quantidade": 78
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 5,
+      "quantidade": 131
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 10,
+      "quantidade": 3
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 15,
+      "quantidade": 10
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 5,
+      "quantidade": 127
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 15,
+      "quantidade": 11
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "potencia": 5,
+      "quantidade": 103
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "potencia": 5,
+      "quantidade": 73
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "potencia": 10,
+      "quantidade": 24
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "potencia": 15,
+      "quantidade": 55
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "potencia": 25,
+      "quantidade": 4
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 30,
+      "quantidade": 34
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 45,
+      "quantidade": 19
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 150,
+      "quantidade": 20
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 75,
+      "quantidade": 64
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 112.5,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 150,
+      "quantidade": 15
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 45,
+      "quantidade": 24
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 75,
+      "quantidade": 15
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 112.5,
+      "quantidade": 11
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 150,
+      "quantidade": 19
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 225,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MPA",
+      "potencia": 75,
+      "quantidade": 44
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MPA",
+      "potencia": 150,
+      "quantidade": 24
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "potencia": 75,
+      "quantidade": 44
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "potencia": 150,
+      "quantidade": 38
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "potencia": 150,
+      "quantidade": 43
     }
   ],
   "faltas": [
@@ -8495,6 +8782,48 @@
     },
     {
       "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "turno": "1º",
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 3
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "turno": "1º",
+      "quantidade": 3
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-18",
       "linha": "TRI",
       "setor": "MPA",
       "turno": "1º",
@@ -9113,6 +9442,84 @@
       "linha": "TRI",
       "setor": "MPA",
       "observacao": "Vinicius sena ferias | Wendell atestado"
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Alimentador do 1 turno , Adriano Carvalho de Sena ( sem justificativa até o momento) Elton Viana da Silva ( atestado médico)"
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Máquina de AT 013 ficou fazendo reformas de 75 KVA do tipo DTG722017 (GARANTIA)"
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Bobinadeira de BT 009 usada para bobinagem trifasica deu continuidade no enrolamento de Monofásico para atendimento ao planejado da Bobinagem de AT"
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "monofásico ficou abaixo por conta da potencia em questão 25kva atendendo ao fluxo de montagem da M.P.A"
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Jarlisson Ribeiro Não justificou"
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "FORAM FABRICADOS 141 PEÇAS,REPROVARAM 4 PEÇAS"
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "Marclevaldo dos santos ribeiro - atestado médico,Matheus lopes da silva - não retornou ao trabalho a semanas,Maick dos santos nascimento - saiu as 11:20 fisoterapia"
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Wellerson Silva - sem justificativa ; Rafael Frank- sem justificativa ; Isael Bentes - avisou que estava com virose."
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "A meta não alcançada segundo o dash no trifásico ocorreu por conta da potencia em questão 150kva e visando atender os monofásicos do programado."
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Jean Rodrigues, apresentou atestado médico"
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Motor da esteira da estufa 018 parou, precisou ser retirado para manutenção Hora 10:40 às 16:00 horas"
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "150 kva 3 peças não conforme trato em curto."
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "Colaborador está de atestado Wendel Gondin"
     }
   ]
 }

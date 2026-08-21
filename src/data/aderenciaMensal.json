@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-21T08:57:48-04:00",
+  "geradoEm": "2026-08-21T10:29:03-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -9138,6 +9138,34 @@
     {
       "data": "2026-08-20",
       "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 10,
+      "quantidade": 5
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "potencia": 15,
+      "quantidade": 133
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 10,
+      "quantidade": 52
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "potencia": 15,
+      "quantidade": 49
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
       "setor": "ISOLANTE",
       "potencia": 25,
       "quantidade": 100
@@ -9152,9 +9180,156 @@
     {
       "data": "2026-08-20",
       "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 5,
+      "quantidade": 9
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 10,
+      "quantidade": 23
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 15,
+      "quantidade": 48
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 25,
+      "quantidade": 32
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 5,
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 15,
+      "quantidade": 56
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "MPA",
+      "potencia": 25,
+      "quantidade": 39
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "potencia": 5,
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "potencia": 10,
+      "quantidade": 4
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "potencia": 15,
+      "quantidade": 38
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "potencia": 25,
+      "quantidade": 78
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
       "setor": "SOLDA",
       "potencia": 15,
       "quantidade": 177
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "potencia": 30,
+      "quantidade": 31
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "potencia": 45,
+      "quantidade": 9
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "potencia": 75,
+      "quantidade": 7
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "potencia": 150,
+      "quantidade": 6
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "potencia": 300,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "potencia": 30,
+      "quantidade": 8
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "potencia": 45,
+      "quantidade": 26
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "potencia": 75,
+      "quantidade": 4
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "potencia": 150,
+      "quantidade": 8
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "potencia": 300,
+      "quantidade": 7
     },
     {
       "data": "2026-08-20",
@@ -9197,6 +9372,76 @@
       "setor": "MONTAGEM DO NUCLEO",
       "potencia": 75,
       "quantidade": 2
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 45,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 75,
+      "quantidade": 50
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "potencia": 150,
+      "quantidade": 14
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MPA",
+      "potencia": 30,
+      "quantidade": 36
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MPA",
+      "potencia": 75,
+      "quantidade": 10
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MPA",
+      "potencia": 150,
+      "quantidade": 18
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MPA",
+      "potencia": 1500,
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "potencia": 30,
+      "quantidade": 35
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "potencia": 75,
+      "quantidade": 28
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "potencia": 150,
+      "quantidade": 19
     },
     {
       "data": "2026-08-20",
@@ -10364,12 +10609,142 @@
     },
     {
       "data": "2026-08-20",
+      "nome": "Bruno Souza",
+      "motivoJustificativa": "Sem justificativa",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "BOBINA AT",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Fredson Pantoja",
+      "motivoJustificativa": "Falta injustificada",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "BOBINA AT",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Jonathan Silva",
+      "motivoJustificativa": "Falta injustificada",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "BOBINA AT",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Péricles Angel",
+      "motivoJustificativa": "Falta injustificada",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "BOBINA AT",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Alexandre Freitas",
+      "motivoJustificativa": "Falta injustificada",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "BOBINA BT",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Geovane Lima da Silva",
+      "motivoJustificativa": "Pediu desligamento",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "BOBINA BT",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Ivo Braga",
+      "motivoJustificativa": "Falta injustificada",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "BOBINA BT",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
       "nome": "Agno nunes",
       "motivoJustificativa": "esta com 2 semanas sem aparecer na fabrica",
       "atestado": "NÃO",
       "quantidade": null,
       "turno": "",
       "setor": "MONTAGEM DO NUCLEO",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Jarlisson Batista",
+      "motivoJustificativa": "Não justificada",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "MONTAGEM FINAL",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Bruno marinho guedes",
+      "motivoJustificativa": "Não foi comunicado motivo da ausência a lideraça",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "MPA",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Maick dos santos nascimento",
+      "motivoJustificativa": "Foi apresentado a liderança declaração de comparecimento das 14:43 as 15:38",
+      "atestado": "SIM",
+      "quantidade": null,
+      "turno": "",
+      "setor": "MPA",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Wendell Gondin",
+      "motivoJustificativa": "Atestado médico",
+      "atestado": "SIM",
+      "quantidade": null,
+      "turno": "",
+      "setor": "MPA",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "rafael",
+      "motivoJustificativa": "não apresentou justificativa",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "PINTURA",
+      "linha": ""
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "wellerson",
+      "motivoJustificativa": "acidente de moto",
+      "atestado": "SIM",
+      "quantidade": null,
+      "turno": "",
+      "setor": "PINTURA",
       "linha": ""
     }
   ],
@@ -12181,6 +12556,48 @@
       "setor": "MPA",
       "observacao": "Um retrabalho 112,5 kva Bobina batida na montagem final, foi acionado os responsáveis pelo setor que seguiram com as orientações necessárias para que não haja reincidência.",
       "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "",
+      "setor": "BOBINA AT",
+      "observacao": "Máquina de AT 006 Fez 12 bobinas de reforma para o setor de reparos.obs tipos variados",
+      "justificativaMeta": "4 ausências Produtividade 75 KVA classe 36 KV lote de 13 peças ( Kennedy Santos e Wilian Araújo) o mesmo ainda continua no dia de hoje."
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "",
+      "setor": "BOBINA BT",
+      "observacao": "Carlos Ramalho Geovane Arcos Chegaram as 9.20 atraso de rota BT 009 fazendo Monofásico Lote de 48 Trafos",
+      "justificativaMeta": "Faltas / atrasos"
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "",
+      "setor": "MONTAGEM FINAL",
+      "observacao": ".",
+      "justificativaMeta": "O não atingimento da meta esta relacionado a quantidade disponível de parte ativas na estufa, e a lentidão de alimentação dos tanques do setor de pintura, o que impactou o ritmo de produção. foi deslocado alguns colaboradores para outros setores para suporte."
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "houve a falha e parada da estufa para manutenção corretiva, durante o processo tivemos a ausência de tanques da potencia de 150kva por conta de estarem em processo de pintura.",
+      "justificativaMeta": "O não atingimento da meta foi ocasionado por conta das parte ativas e tanques disponiveis para montagem ( 150kva Cemig), e a verificação de megagem abaixo de 1 giga."
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "",
+      "setor": "MPA",
+      "observacao": "01 funcionário de férias, Vinicius Sena 02 funcionário chegaram 9:00 horas por causa do atraso da rota. (greve)",
+      "justificativaMeta": "meta programada no dash não foi atingida, porem em capacidade produzida teve o alcance de 96,4% em capacidade"
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "",
+      "setor": "PINTURA",
+      "observacao": "houve extensão de - 120 minutos por conta dos kva's que passaram na linha, incluindo os tanques de 150 kva do cliente Cemig, para atendimento de montagem final. quantide na extensão: 20 tanques monofasicos.",
+      "justificativaMeta": "sem justificava"
     }
   ],
   "faltasMaterial": [],
@@ -12192,9 +12609,46 @@
       "horaFim": "12:16",
       "observacao": "Bomba hidraulica esta sem força para atender o expansor de bobinas de aco siliciio",
       "setor": "MONTAGEM DO NUCLEO"
+    },
+    {
+      "data": "2026-08-20",
+      "maquinaEquipamento": "estufa 2",
+      "horaInicio": "07:15",
+      "horaFim": "16:20",
+      "observacao": "estufa apresentou problema com o alcance de temperatura adequado, houve a troca de fiações em curto circuito e a adequação do motor para melhor ventilação e distribuição de calor.",
+      "setor": "MONTAGEM FINAL"
+    },
+    {
+      "data": "2026-08-20",
+      "maquinaEquipamento": "painel eletrico de alimentação das cabines",
+      "horaInicio": "07:20",
+      "horaFim": "07:40",
+      "observacao": "sem obs",
+      "setor": "PINTURA"
     }
   ],
   "naoConformidades": [
+    {
+      "data": "2026-08-20",
+      "causa": "Trasformador de 25kva faltado um tap",
+      "op": "42114",
+      "numeroSerie": "Z325208",
+      "setor": "MPA"
+    },
+    {
+      "data": "2026-08-20",
+      "causa": "Transformador de 25kva faltando um tap",
+      "op": "42114",
+      "numeroSerie": "Z325210",
+      "setor": "MPA"
+    },
+    {
+      "data": "2026-08-20",
+      "causa": "cor e marcações do patrimonio incorreto",
+      "op": "41795",
+      "numeroSerie": "325932",
+      "setor": "PINTURA"
+    },
     {
       "data": "2026-08-20",
       "causa": "houve falha na operação da bordeadeira ( parametros incorretos)",

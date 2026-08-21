@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-20T10:25:57-04:00",
+  "geradoEm": "2026-08-21T07:28:23-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -6031,6 +6031,237 @@
       "setor": "SOLDA",
       "turno": "2º",
       "quantidade": 30
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "EPO",
+      "setor": "FERRAGEM",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "EPO",
+      "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "EPO",
+      "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 1
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "turno": "1º",
+      "quantidade": 75
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "turno": "2º",
+      "quantidade": 63
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "turno": "1º",
+      "quantidade": 70
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "turno": "2º",
+      "quantidade": 31
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "turno": "1º",
+      "quantidade": 7
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "CORTE DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 70
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "FERRAGEM",
+      "turno": "1º",
+      "quantidade": 100
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "turno": "1º",
+      "quantidade": 100
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 70
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 112
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 96
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "turno": "1º",
+      "quantidade": 69
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "turno": "2º",
+      "quantidade": 53
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "turno": "1º",
+      "quantidade": 54
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "turno": "2º",
+      "quantidade": 123
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "turno": "1º",
+      "quantidade": 38
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "turno": "2º",
+      "quantidade": 16
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "turno": "1º",
+      "quantidade": 28
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "BOBINA BT",
+      "turno": "2º",
+      "quantidade": 25
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "CORTE DO LASER",
+      "turno": "1º",
+      "quantidade": 50
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "CORTE DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 65
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "FERRAGEM",
+      "turno": "1º",
+      "quantidade": 68
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "turno": "1º",
+      "quantidade": 68
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "turno": "1º",
+      "quantidade": 100
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 65
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MPA",
+      "turno": "1º",
+      "quantidade": 64
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "turno": "1º",
+      "quantidade": 28
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "turno": "2º",
+      "quantidade": 54
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "turno": "1º",
+      "quantidade": 52
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "turno": "2º",
+      "quantidade": 2
     }
   ],
   "detalhesProducao": [
@@ -9369,780 +9600,2489 @@
       "quantidade": 1
     }
   ],
+  "detalhesFaltas": [
+    {
+      "data": "2026-08-07",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "1º",
+      "setor": "BOBINA AT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-07",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "2º",
+      "setor": "BOBINA BT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-07",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-07",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "2º",
+      "setor": "BOBINA AT",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-07",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 3,
+      "turno": "1º",
+      "setor": "EPOXI",
+      "linha": "EPO"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "BOBINA AT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 3,
+      "turno": "2º",
+      "setor": "CORTE DO LASER",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "MONTAGEM DO NUCLEO",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "2º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "1º",
+      "setor": "SOLDA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "ISOLANTE",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-10",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MPA",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-11",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "EPOXI",
+      "linha": "EPO"
+    },
+    {
+      "data": "2026-08-11",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "BOBINA AT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-11",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "BOBINA BT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-11",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 4,
+      "turno": "2º",
+      "setor": "CORTE DO LASER",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-11",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "ISOLANTE",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-11",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "MONTAGEM DO NUCLEO",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-11",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-11",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-11",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-12",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "EPOXI",
+      "linha": "EPO"
+    },
+    {
+      "data": "2026-08-12",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "BOBINA AT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-12",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "BOBINA BT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-12",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 3,
+      "turno": "2º",
+      "setor": "CORTE DO LASER",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-12",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "ISOLANTE",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-12",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MONTAGEM DO NUCLEO",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-12",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-12",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-13",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "BOBINA AT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-13",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "MONTAGEM DO NUCLEO",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-13",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "1º",
+      "setor": "MPA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-13",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "1º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-13",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-13",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "ISOLANTE",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-14",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "BOBINA AT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-14",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "BOBINA BT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-14",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "MONTAGEM DO NUCLEO",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-14",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MPA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-14",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-14",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-14",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "SOLDA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-14",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "BOBINA AT",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-17",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "BOBINA BT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-17",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 3,
+      "turno": "2º",
+      "setor": "CORTE DO LASER",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-17",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "2º",
+      "setor": "MONTAGEM DO NUCLEO",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-17",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-17",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 4,
+      "turno": "1º",
+      "setor": "MPA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-17",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-17",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "SOLDA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-17",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MPA",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-18",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "1º",
+      "setor": "BOBINA AT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-18",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-18",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 3,
+      "turno": "1º",
+      "setor": "MPA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-18",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 3,
+      "turno": "1º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-18",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-18",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MPA",
+      "linha": "TRI"
+    },
+    {
+      "data": "2026-08-19",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "BOBINA AT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-19",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 3,
+      "turno": "1º",
+      "setor": "BOBINA BT",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-19",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MONTAGEM FINAL",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-19",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 3,
+      "turno": "1º",
+      "setor": "MPA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-19",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 2,
+      "turno": "1º",
+      "setor": "PINTURA",
+      "linha": "MON"
+    },
+    {
+      "data": "2026-08-19",
+      "nome": "",
+      "motivoJustificativa": "",
+      "atestado": "",
+      "quantidade": 1,
+      "turno": "1º",
+      "setor": "MPA",
+      "linha": "TRI"
+    }
+  ],
   "observacoes": [
     {
       "data": "2026-08-07",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Setup para 25kva por conta da chegada do fio"
+      "observacao": "Setup para 25kva por conta da chegada do fio",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-07",
       "linha": "MON",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Manutenção da porta de estufa 3"
+      "observacao": "Manutenção da porta de estufa 3",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-07",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "Mesa 2 com vazamento \"manutenção\""
+      "observacao": "Mesa 2 com vazamento \"manutenção\"",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-07",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Tanques pesados na linha instalação da bomba da banheira prime, houve troca da cabine 2"
+      "observacao": "Tanques pesados na linha instalação da bomba da banheira prime, houve troca da cabine 2",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-07",
       "linha": "MON",
       "setor": "SOLDA",
-      "observacao": "Parada de maquina bordeadeira de tanque 15:28 - 15:52, parafuso da faca quebrados, conforme cronoanalise 112,1% capacidade"
+      "observacao": "Parada de maquina bordeadeira de tanque 15:28 - 15:52, parafuso da faca quebrados, conforme cronoanalise 112,1% capacidade",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-07",
       "linha": "TRI",
       "setor": "BOBINA AT",
-      "observacao": "Faltou papel 45kva no total de 1 hora"
+      "observacao": "Faltou papel 45kva no total de 1 hora",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-07",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Somente 1 motor funcionando em cada estufa"
+      "observacao": "Somente 1 motor funcionando em cada estufa",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-07",
       "linha": "TRI",
       "setor": "MPA",
-      "observacao": "112,2 kva esta com aproveitamento de fio"
+      "observacao": "112,2 kva esta com aproveitamento de fio",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-07",
       "linha": "TRI",
       "setor": "PINTURA",
-      "observacao": "Solicitar a liberação do sabado para limpeza"
+      "observacao": "Solicitar a liberação do sabado para limpeza",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "EPO",
       "setor": "EPOXI",
-      "observacao": "Montagem do gabinete 112kva cliente chibatao 90% | Oliveira 1000kva mpa 80%"
+      "observacao": "Montagem do gabinete 112kva cliente chibatao 90% | Oliveira 1000kva mpa 80%",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "EPO",
       "setor": "EPOXI",
-      "observacao": "Não entregamos 100% motivo 3 faltas"
+      "observacao": "Não entregamos 100% motivo 3 faltas",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "EPO",
       "setor": "EPOXI",
-      "observacao": "Ralison avisou que não podia vir hoje por motivo particular | Derik faltou pois a mae dele faleceu | Yan novato faltou sem justificativa"
+      "observacao": "Ralison avisou que não podia vir hoje por motivo particular | Derik faltou pois a mae dele faleceu | Yan novato faltou sem justificativa",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Matheus atestado"
+      "observacao": "Matheus atestado",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "BT - trifasico - 1 trafo reforma 45kva e 1 bobina de 112,5kva - BT monofasico (dificuldade no enrolamento devido fio com trinco no isolamento - tratativa foi por uma camada de poliester"
+      "observacao": "BT - trifasico - 1 trafo reforma 45kva e 1 bobina de 112,5kva - BT monofasico (dificuldade no enrolamento devido fio com trinco no isolamento - tratativa foi por uma camada de poliester",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Iranildo atraso chegou as 11:02"
+      "observacao": "Iranildo atraso chegou as 11:02",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Produtividade individual abaixo da capacidade sem rendimento e esta sendo tratado o ocorrido"
+      "observacao": "Produtividade individual abaixo da capacidade sem rendimento e esta sendo tratado o ocorrido",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "observacao": "Jose - atestado | Carlos lesao no ombro | dimitri falta não justificada"
+      "observacao": "Jose - atestado | Carlos lesao no ombro | dimitri falta não justificada",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "observacao": "Presa 160T teve quebra do punção - parada 7:15 - 14:30"
+      "observacao": "Presa 160T teve quebra do punção - parada 7:15 - 14:30",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "ISOLANTE",
-      "observacao": "Ingrid - atestado"
+      "observacao": "Ingrid - atestado",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "ISOLANTE",
-      "observacao": "Maquina de empapelar foi parada desde as 20:00 - manutencao atuando pelo turno da manha do dia 11/08"
+      "observacao": "Maquina de empapelar foi parada desde as 20:00 - manutencao atuando pelo turno da manha do dia 11/08",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "ISOLANTE",
-      "observacao": "Reforma 45kva - 1 bobina 112,5kva - 1 bobina 75kva - ambos AT"
+      "observacao": "Reforma 45kva - 1 bobina 112,5kva - 1 bobina 75kva - ambos AT",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
-      "observacao": "Agno falta por problema de saude"
+      "observacao": "Agno falta por problema de saude",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "MONTAGEM FINAL",
-      "observacao": "2 Transformadores especiais 112 kva produção 100%"
+      "observacao": "2 Transformadores especiais 112 kva produção 100%",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Jarlison falta por consulta medica | Paulo falta não justificada"
+      "observacao": "Jarlison falta por consulta medica | Paulo falta não justificada",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "3 Peças reprovadas de 15kva"
+      "observacao": "3 Peças reprovadas de 15kva",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Meta não alcançada devido problema continuo da mononia perca produtiva entre 30 - 35 trafos"
+      "observacao": "Meta não alcançada devido problema continuo da mononia perca produtiva entre 30 - 35 trafos",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Monania com falha parando sozinho 10:30 - 11:00 | 11:16 - 11:20 | 13:05 - 13:26 | 13:35 - 13:50"
+      "observacao": "Monania com falha parando sozinho 10:30 - 11:00 | 11:16 - 11:20 | 13:05 - 13:26 | 13:35 - 13:50",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Wenerson sem justificativa | Antonio hospital com esposa | Kelson atestado"
+      "observacao": "Wenerson sem justificativa | Antonio hospital com esposa | Kelson atestado",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "MON",
       "setor": "SOLDA",
-      "observacao": "Wilson - atestado | Danilo - atestado"
+      "observacao": "Wilson - atestado | Danilo - atestado",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Roneivan macedo falta por problema de saude"
+      "observacao": "Roneivan macedo falta por problema de saude",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-10",
       "linha": "TRI",
       "setor": "MPA",
-      "observacao": "1 Funcionario de férias"
+      "observacao": "1 Funcionario de férias",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "EPO",
       "setor": "EPOXI",
-      "observacao": "Derick falta por luto"
+      "observacao": "Derick falta por luto",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Walber atestado medico"
+      "observacao": "Walber atestado medico",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "BT monofasico com dificuldade em usar fio 6x7 (trincando) passamos uma camda de poliester / uma ausencia na bt monofasica"
+      "observacao": "BT monofasico com dificuldade em usar fio 6x7 (trincando) passamos uma camda de poliester / uma ausencia na bt monofasica",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Dificuldade em enrolamento do 10kva 100 trafos (trinca no fio) BT nova não teve producao no 2 turno | faltou cabeceira do 25kva no 2 turno 30 minutos"
+      "observacao": "Dificuldade em enrolamento do 10kva 100 trafos (trinca no fio) BT nova não teve producao no 2 turno | faltou cabeceira do 25kva no 2 turno 30 minutos",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "observacao": "Jose contusao no braço | Carlos contusao no ombro | Dimitri passou a informação para o RH | Theyfo a filha quebrou a perna"
+      "observacao": "Jose contusao no braço | Carlos contusao no ombro | Dimitri passou a informação para o RH | Theyfo a filha quebrou a perna",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "ISOLANTE",
-      "observacao": "Alessandro suspenso por 3 dias | Maquina de empapelar fio ainda em manutencao desde o dia 10/08 as 20:00"
+      "observacao": "Alessandro suspenso por 3 dias | Maquina de empapelar fio ainda em manutencao desde o dia 10/08 as 20:00",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Paulo falta não justificada | Isaque falta não justificada"
+      "observacao": "Paulo falta não justificada | Isaque falta não justificada",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "2 Colaboradores sairam as 13:30 (Felipe e Sergio)"
+      "observacao": "2 Colaboradores sairam as 13:30 (Felipe e Sergio)",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "Mesa de montagem parada com problema daulicos 12:00 - 14:30 parou novamente as 15:40 a mesma mesa mas o outro cilindro feito o reparo voltou as 16:35 | 3 reprovações NC 15kva"
+      "observacao": "Mesa de montagem parada com problema daulicos 12:00 - 14:30 parou novamente as 15:40 a mesma mesa mas o outro cilindro feito o reparo voltou as 16:35 | 3 reprovações NC 15kva",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Kelson - atestado"
+      "observacao": "Kelson - atestado",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Pistola com vazamento 14:03 - 14:20 | Mangueira de ar estorou 15:45 - 16:00 | Trabalhando com velocidade lenta 19:00 - 23:08 | Estufa com 1 baixa temperatura"
+      "observacao": "Pistola com vazamento 14:03 - 14:20 | Mangueira de ar estorou 15:45 - 16:00 | Trabalhando com velocidade lenta 19:00 - 23:08 | Estufa com 1 baixa temperatura",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "MON",
       "setor": "SOLDA",
-      "observacao": "Maquina de bordeiar tanque parou as 07:50 para ser feito a troca do conjunto das facas, entregue as 09:58"
+      "observacao": "Maquina de bordeiar tanque parou as 07:50 para ser feito a troca do conjunto das facas, entregue as 09:58",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "TRI",
       "setor": "BOBINA AT",
-      "observacao": "Faltou BT para linha de at no 2 turno devido demora no enrolamento de BT, bobinadeira at018 apresentou falhas no pedal no dois turnos"
+      "observacao": "Faltou BT para linha de at no 2 turno devido demora no enrolamento de BT, bobinadeira at018 apresentou falhas no pedal no dois turnos",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "TRI",
       "setor": "MONTAGEM DO NUCLEO",
-      "observacao": "Agon atestado medico"
+      "observacao": "Agon atestado medico",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "TRI",
       "setor": "MONTAGEM DO NUCLEO",
-      "observacao": "Meta do mono não atingida por a capacidade do 25kva ser mais pesado"
+      "observacao": "Meta do mono não atingida por a capacidade do 25kva ser mais pesado",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Eduardo falta sem justificativa"
+      "observacao": "Eduardo falta sem justificativa",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-11",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Megagem baixa estufa 2, parte ativa de 150kva, 112,5kva e 300kva sem tanque"
+      "observacao": "Megagem baixa estufa 2, parte ativa de 150kva, 112,5kva e 300kva sem tanque",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "EPO",
       "setor": "EPOXI",
-      "observacao": "2º turno desmontou 225 kva para troca de tensao e desmontou 112kva cliente chibatao | Meta concluida 100%"
+      "observacao": "2º turno desmontou 225 kva para troca de tensao e desmontou 112kva cliente chibatao | Meta concluida 100%",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Fabrica nova foi com pecas para se produzir"
+      "observacao": "Fabrica nova foi com pecas para se produzir",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "observacao": "Dobradeira calfran parada 17:10 - 19:30 foi feito a troca de todas as vedações do bloco (estava com vazamento de oleo)"
+      "observacao": "Dobradeira calfran parada 17:10 - 19:30 foi feito a troca de todas as vedações do bloco (estava com vazamento de oleo)",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "observacao": "Ermilson não justificou | Thaylo acompanhando filha | Henrique lesao no ombro | Jose lesao no ombro | Dimitri Pediu saida para acompanhar esposa"
+      "observacao": "Ermilson não justificou | Thaylo acompanhando filha | Henrique lesao no ombro | Jose lesao no ombro | Dimitri Pediu saida para acompanhar esposa",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "MON",
       "setor": "ISOLANTE",
-      "observacao": "Colaborador Alessandro Andrade suspenso"
+      "observacao": "Colaborador Alessandro Andrade suspenso",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "4 PEÇAS NÃO CONFOMES, 1 PEÇA RETRABALHADA DA MONTAGEM FINAL"
+      "observacao": "4 PEÇAS NÃO CONFOMES, 1 PEÇA RETRABALHADA DA MONTAGEM FINAL",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "1 Colaborador deslocado para a expedição"
+      "observacao": "1 Colaborador deslocado para a expedição",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Wellerson falta suspensao 3 dias | David colaborador saiu por acidente de trabalho 11:10"
+      "observacao": "Wellerson falta suspensao 3 dias | David colaborador saiu por acidente de trabalho 11:10",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "MON",
       "setor": "SOLDA",
-      "observacao": "Tivemos falta de suporte de porte para dar continuidade no processo do 10kVA OP.42050. Com isso foi feito uma manobra para não ter impacto na produção e sequência na programação dando prioridade ao 45kVA OP.42138 e em seguida no 75kVA OP.42186."
+      "observacao": "Tivemos falta de suporte de porte para dar continuidade no processo do 10kVA OP.42050. Com isso foi feito uma manobra para não ter impacto na produção e sequência na programação dando prioridade ao 45kVA OP.42138 e em seguida no 75kVA OP.42186.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "TRI",
       "setor": "BOBINA AT",
-      "observacao": "Manutenção nas bobinadeira at 005 e 012 - 005 corta giro com defeito pedi a troca da mesa 09:20 - 16:20 | 012 corta giro 08:02 - 16:50"
+      "observacao": "Manutenção nas bobinadeira at 005 e 012 - 005 corta giro com defeito pedi a troca da mesa 09:20 - 16:20 | 012 corta giro 08:02 - 16:50",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-12",
       "linha": "TRI",
       "setor": "MPA",
-      "observacao": "300kva foi feito 5 pecas mais uma deu não conforme na mpa sendo assim foram somente 4 trafos"
+      "observacao": "300kva foi feito 5 pecas mais uma deu não conforme na mpa sendo assim foram somente 4 trafos",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "EPO",
       "setor": "EPOXI",
-      "observacao": "Retrabalho 225 e 112"
+      "observacao": "Retrabalho 225 e 112",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Anderson Bruno atestado"
+      "observacao": "Anderson Bruno atestado",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Maquina AT001 paradas de manutenção corretiva 10:45 - 12:20 | 15:40 | AT018 parada de manutenção 14:01 - 14:40"
+      "observacao": "Maquina AT001 paradas de manutenção corretiva 10:45 - 12:20 | 15:40 | AT018 parada de manutenção 14:01 - 14:40",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "75 kva reforma | 3 bobinas"
+      "observacao": "75 kva reforma | 3 bobinas",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
-      "observacao": "Falta de Agno Nunes (Não informada)"
+      "observacao": "Falta de Agno Nunes (Não informada)",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
-      "observacao": "Meta nao antingida no trifásico pois trafos acima da capacidade"
+      "observacao": "Meta nao antingida no trifásico pois trafos acima da capacidade",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Manutencao corretiva na talha"
+      "observacao": "Manutencao corretiva na talha",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "Bruno Marinho 1 atestado médico , Sergio Correia saiu as 14h com declaração de comparecimento"
+      "observacao": "Bruno Marinho 1 atestado médico , Sergio Correia saiu as 14h com declaração de comparecimento",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "2 Colaboradores ausentes | velocidade da linha reduzida para 0,8 pois estava parando muito na cabine do branco | 75 neoenergia | dif - 24 pcs"
+      "observacao": "2 Colaboradores ausentes | velocidade da linha reduzida para 0,8 pois estava parando muito na cabine do branco | 75 neoenergia | dif - 24 pcs",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Antonio carlos sem justificativa"
+      "observacao": "Antonio carlos sem justificativa",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Wellerson sina suspenso | David mendonca atestado medico |"
+      "observacao": "Wellerson sina suspenso | David mendonca atestado medico |",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "TRI",
       "setor": "ISOLANTE",
-      "observacao": "Colaborador Alessandro Andrade esta suspenso"
+      "observacao": "Colaborador Alessandro Andrade esta suspenso",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Termovácuo em manutenção sem impacto na produção 16:00 hrs"
+      "observacao": "Termovácuo em manutenção sem impacto na produção 16:00 hrs",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-13",
       "linha": "TRI",
       "setor": "SOLDA",
-      "observacao": "Falha no setor de estamparia numero de serie estava nao coforme op 42074 lote de 27 pcs com letra g | op 42130 lote de 64 pcs com letra f"
+      "observacao": "Falha no setor de estamparia numero de serie estava nao coforme op 42074 lote de 27 pcs com letra g | op 42130 lote de 64 pcs com letra f",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Claudiney da Silva Marialva Sem justificativa até o momento"
+      "observacao": "Claudiney da Silva Marialva Sem justificativa até o momento",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Manutencao corretiva na maquina AT003 - 09:30 - 10:20"
+      "observacao": "Manutencao corretiva na maquina AT003 - 09:30 - 10:20",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Geovane Lima da Silva Sem justificativa até o momento"
+      "observacao": "Geovane Lima da Silva Sem justificativa até o momento",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
-      "observacao": "Sem justificativa Agno Nunes"
+      "observacao": "Sem justificativa Agno Nunes",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "Carlos Sandro foi ao dentista e chegou às 09:00"
+      "observacao": "Carlos Sandro foi ao dentista e chegou às 09:00",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Antonio carlos com atestado médico"
+      "observacao": "Antonio carlos com atestado médico",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Faltou 7 peças para atingir a meta, muitos tanques de potências grandes 112,5, 150 e 300 kVA, com isso processo para a pintura nos processos de prime e acabamento."
+      "observacao": "Faltou 7 peças para atingir a meta, muitos tanques de potências grandes 112,5, 150 e 300 kVA, com isso processo para a pintura nos processos de prime e acabamento.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Wellerson Silva está de suspensão"
+      "observacao": "Wellerson Silva está de suspensão",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "MON",
       "setor": "SOLDA",
-      "observacao": "1 falta - Ronaldo"
+      "observacao": "1 falta - Ronaldo",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "TRI",
       "setor": "BOBINA AT",
-      "observacao": "Edgleyson Batista Jacaúna Trouxe atestado médico"
+      "observacao": "Edgleyson Batista Jacaúna Trouxe atestado médico",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-14",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Megagem baixa, 150 kVA 5 peças"
+      "observacao": "Megagem baixa, 150 kVA 5 peças",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "EPO",
       "setor": "EPOXI",
-      "observacao": "225kva montagem de gabinete 100%"
+      "observacao": "225kva montagem de gabinete 100%",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Faltou bobina de BT do 150 KVA lote de 80 TRAFOS CEMIG,devido barra chata da BT."
+      "observacao": "Faltou bobina de BT do 150 KVA lote de 80 TRAFOS CEMIG,devido barra chata da BT.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Máquina de AT 001 parada para manutenção corretiva. Freio e pedal Parada de 20 minutos"
+      "observacao": "Máquina de AT 001 parada para manutenção corretiva. Freio e pedal Parada de 20 minutos",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Geovane Lima da Silva Sem justificativa até o momento"
+      "observacao": "Geovane Lima da Silva Sem justificativa até o momento",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Manutenção corretiva na bobinadeira BT 003 Painel de comando, início as 07.20 até às 8"
+      "observacao": "Manutenção corretiva na bobinadeira BT 003 Painel de comando, início as 07.20 até às 8",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Tiveram vários problemas ontem no processo. 1 . Demora do fio do almoxarifado em chegar no setor 7,5x5,5 parada de 20 minutos cada operador. 2.Maquina de BT 009 fez monofásico,25 KVA 3.Barra chata do 150 KVA CEMIG lote de 80 TRAFOS com trinca no processo, engenharia fez desvio na dobra para poder usar material, parada 12.25 até às 16.10"
+      "observacao": "Tiveram vários problemas ontem no processo. 1 . Demora do fio do almoxarifado em chegar no setor 7,5x5,5 parada de 20 minutos cada operador. 2.Maquina de BT 009 fez monofásico,25 KVA 3.Barra chata do 150 KVA CEMIG lote de 80 TRAFOS com trinca no processo, engenharia fez desvio na dobra para poder usar material, parada 12.25 até às 16.10",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "observacao": "josé alan está com atestado de 15 dias. Carlos henrique está com lesão no ombro. Theylo martin estava com a filha no hospital devido a uma fratura na perna."
+      "observacao": "josé alan está com atestado de 15 dias. Carlos henrique está com lesão no ombro. Theylo martin estava com a filha no hospital devido a uma fratura na perna.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "CORTE DO LASER",
-      "observacao": "produção abaixo devido a falta da programação."
+      "observacao": "produção abaixo devido a falta da programação.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
-      "observacao": "Agno nunes sem justificativa"
+      "observacao": "Agno nunes sem justificativa",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
-      "observacao": "Meta nao atingida devido potencias ser acima da capacidade"
+      "observacao": "Meta nao atingida devido potencias ser acima da capacidade",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Iarlem Igo FariasMelo Não justificou"
+      "observacao": "Iarlem Igo FariasMelo Não justificou",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "Felipe Nogueira de Assis - Atestado; Bruno Marinho Guedes - Atestado via App; Marclevado dos Santos Ribeiro - Falta sem justificativa; Matheus Lopes - Falta sem Justificativa"
+      "observacao": "Felipe Nogueira de Assis - Atestado; Bruno Marinho Guedes - Atestado via App; Marclevado dos Santos Ribeiro - Falta sem justificativa; Matheus Lopes - Falta sem Justificativa",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Causa - Mangueira da pistola do branco entupiu. Ação tomada- troca da mangueira de tinta e das conexões. Tempo de parada - Das 7:50 as 8:20"
+      "observacao": "Causa - Mangueira da pistola do branco entupiu. Ação tomada- troca da mangueira de tinta e das conexões. Tempo de parada - Das 7:50 as 8:20",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Sem justificativa Rafael frank"
+      "observacao": "Sem justificativa Rafael frank",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "MON",
       "setor": "SOLDA",
-      "observacao": "O colaborador apresentou hoje dia 18/08/26 declaração referente ao dia 17/08"
+      "observacao": "O colaborador apresentou hoje dia 18/08/26 declaração referente ao dia 17/08",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Deixamos de montar 10 pcs 112,5 por conta da divergencia com tanques (tanques empenados e atraso na entrega do setor de pintura)"
+      "observacao": "Deixamos de montar 10 pcs 112,5 por conta da divergencia com tanques (tanques empenados e atraso na entrega do setor de pintura)",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "TRI",
       "setor": "MPA",
-      "observacao": "Potencia transformador diferente da estipulado para o dia na programação"
+      "observacao": "Potencia transformador diferente da estipulado para o dia na programação",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-17",
       "linha": "TRI",
       "setor": "MPA",
-      "observacao": "Vinicius sena ferias | Wendell atestado"
+      "observacao": "Vinicius sena ferias | Wendell atestado",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Alimentador do 1 turno , Adriano Carvalho de Sena ( sem justificativa até o momento) Elton Viana da Silva ( atestado médico)"
+      "observacao": "Alimentador do 1 turno , Adriano Carvalho de Sena ( sem justificativa até o momento) Elton Viana da Silva ( atestado médico)",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Máquina de AT 013 ficou fazendo reformas de 75 KVA do tipo DTG722017 (GARANTIA)"
+      "observacao": "Máquina de AT 013 ficou fazendo reformas de 75 KVA do tipo DTG722017 (GARANTIA)",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Bobinadeira de BT 009 usada para bobinagem trifasica deu continuidade no enrolamento de Monofásico para atendimento ao planejado da Bobinagem de AT"
+      "observacao": "Bobinadeira de BT 009 usada para bobinagem trifasica deu continuidade no enrolamento de Monofásico para atendimento ao planejado da Bobinagem de AT",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "MON",
       "setor": "MONTAGEM DO NUCLEO",
-      "observacao": "monofásico ficou abaixo por conta da potencia em questão 25kva atendendo ao fluxo de montagem da M.P.A"
+      "observacao": "monofásico ficou abaixo por conta da potencia em questão 25kva atendendo ao fluxo de montagem da M.P.A",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "MON",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Jarlisson Ribeiro Não justificou"
+      "observacao": "Jarlisson Ribeiro Não justificou",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "FORAM FABRICADOS 141 PEÇAS,REPROVARAM 4 PEÇAS"
+      "observacao": "FORAM FABRICADOS 141 PEÇAS,REPROVARAM 4 PEÇAS",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "Marclevaldo dos santos ribeiro - atestado médico,Matheus lopes da silva - não retornou ao trabalho a semanas,Maick dos santos nascimento - saiu as 11:20 fisoterapia"
+      "observacao": "Marclevaldo dos santos ribeiro - atestado médico,Matheus lopes da silva - não retornou ao trabalho a semanas,Maick dos santos nascimento - saiu as 11:20 fisoterapia",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Wellerson Silva - sem justificativa ; Rafael Frank- sem justificativa ; Isael Bentes - avisou que estava com virose."
+      "observacao": "Wellerson Silva - sem justificativa ; Rafael Frank- sem justificativa ; Isael Bentes - avisou que estava com virose.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "MON",
       "setor": "SOLDA",
-      "observacao": "A meta não alcançada segundo o dash no trifásico ocorreu por conta da potencia em questão 150kva e visando atender os monofásicos do programado."
+      "observacao": "A meta não alcançada segundo o dash no trifásico ocorreu por conta da potencia em questão 150kva e visando atender os monofásicos do programado.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Jean Rodrigues, apresentou atestado médico"
+      "observacao": "Jean Rodrigues, apresentou atestado médico",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Motor da esteira da estufa 018 parou, precisou ser retirado para manutenção Hora 10:40 às 16:00 horas"
+      "observacao": "Motor da esteira da estufa 018 parou, precisou ser retirado para manutenção Hora 10:40 às 16:00 horas",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "TRI",
       "setor": "MPA",
-      "observacao": "150 kva 3 peças não conforme trato em curto."
+      "observacao": "150 kva 3 peças não conforme trato em curto.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-18",
       "linha": "TRI",
       "setor": "MPA",
-      "observacao": "Colaborador está de atestado Wendel Gondin"
+      "observacao": "Colaborador está de atestado Wendel Gondin",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "AT monofásico fez lote de 74 TRAFOS de 15 KVA 36KV. Colaborador Anderson Bruno de Lima saiu às 11.20 sem retorno ( exames) . Máquina de AT 004 teve manutenção corretiva 13.20.13.50 Máquina AT 006 fez reformas : 5 bobinas de 25kva e 3 bobinas de 15kva 36kv"
+      "observacao": "AT monofásico fez lote de 74 TRAFOS de 15 KVA 36KV. Colaborador Anderson Bruno de Lima saiu às 11.20 sem retorno ( exames) . Máquina de AT 004 teve manutenção corretiva 13.20.13.50 Máquina AT 006 fez reformas : 5 bobinas de 25kva e 3 bobinas de 15kva 36kv",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "BOBINA AT",
-      "observacao": "Clauniney da Silva Marialva Falta injustificada até o momento."
+      "observacao": "Clauniney da Silva Marialva Falta injustificada até o momento.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "BT 009 fazendo monofásico no 1 turno"
+      "observacao": "BT 009 fazendo monofásico no 1 turno",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Geovane Lima da Silva BT monofásico ( falta injustificada) Cleusivan Ferreira BT trifásico ( falta injustificada) Alexandre BT monofásico ( falta injustificada)"
+      "observacao": "Geovane Lima da Silva BT monofásico ( falta injustificada) Cleusivan Ferreira BT trifásico ( falta injustificada) Alexandre BT monofásico ( falta injustificada)",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "BOBINA BT",
-      "observacao": "Máquinas de BT Fábrica Nova finalizaram o 150 KVA com sequencia para o 300 KVA do lote de 38 Trafos"
+      "observacao": "Máquinas de BT Fábrica Nova finalizaram o 150 KVA com sequencia para o 300 KVA do lote de 38 Trafos",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Isaque da Silva Martins Justificando Atestado médico"
+      "observacao": "Isaque da Silva Martins Justificando Atestado médico",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "Matheus lopes da silva - não veio a semamas, Sergio souza correia - se ausentou a 14:00 para ir ao médico, Arthemio duarte de aquino - se ausentou as 14:30 para ir ao médico."
+      "observacao": "Matheus lopes da silva - não veio a semamas, Sergio souza correia - se ausentou a 14:00 para ir ao médico, Arthemio duarte de aquino - se ausentou as 14:30 para ir ao médico.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "MPA",
-      "observacao": "iniciamos o turno com mix de potencias 5, 10, 15 e 25kva, não atendendo a meta descrita no dash, porem atendendo em capacidade de montagem dos trafos em questão. Seguimos alinhando o plano de produção para não termos impacto desnecessários ."
+      "observacao": "iniciamos o turno com mix de potencias 5, 10, 15 e 25kva, não atendendo a meta descrita no dash, porem atendendo em capacidade de montagem dos trafos em questão. Seguimos alinhando o plano de produção para não termos impacto desnecessários .",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "1 colaborador de atestado ( isael bentes) 1 colaborador sem justificativa ( Rafael frank)"
+      "observacao": "1 colaborador de atestado ( isael bentes) 1 colaborador sem justificativa ( Rafael frank)",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "PINTURA",
-      "observacao": "Desde do início do turno o Jato estava parado. Motivo : vazamento de granalha nas turbinas 1 e 3 . Ação tomada: manutenção acionada . Jato voltou a operar as 8:37. Obs: Não gerou impacto na linha de pintura pois tínhamos tanques disponíveis para alimentação do carrossel."
+      "observacao": "Desde do início do turno o Jato estava parado. Motivo : vazamento de granalha nas turbinas 1 e 3 . Ação tomada: manutenção acionada . Jato voltou a operar as 8:37. Obs: Não gerou impacto na linha de pintura pois tínhamos tanques disponíveis para alimentação do carrossel.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "MON",
       "setor": "SOLDA",
-      "observacao": "No 1° turno, constatou-se ausência de suporte de porte referente à OP 42178 que apresentaram problemas ao estampar, para mitigar o impacto na produtividade, foi realizado a manobra utilizando transformador de 30kva, o suporte foi restabelecido após o intervalo do almoço ocasionando leve impacto na linha, ainda sim ambos os turnos tiveram o desempenho satisfatório, atingindo 99,9% da capacidade operacional."
+      "observacao": "No 1° turno, constatou-se ausência de suporte de porte referente à OP 42178 que apresentaram problemas ao estampar, para mitigar o impacto na produtividade, foi realizado a manobra utilizando transformador de 30kva, o suporte foi restabelecido após o intervalo do almoço ocasionando leve impacto na linha, ainda sim ambos os turnos tiveram o desempenho satisfatório, atingindo 99,9% da capacidade operacional.",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
-      "observacao": "Foram feito todas as partes ativas disponíveis nas estufas. 1 parte ativa do 300 kva não foi montada devido ao tanque que estava fora dos padrões 1 tanque do 150 kva voltou para a pintura e um de 75 kva também voltou para a pintura"
+      "observacao": "Foram feito todas as partes ativas disponíveis nas estufas. 1 parte ativa do 300 kva não foi montada devido ao tanque que estava fora dos padrões 1 tanque do 150 kva voltou para a pintura e um de 75 kva também voltou para a pintura",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "TRI",
       "setor": "MPA",
-      "observacao": "Colaborador apresentou atestado Wendel Gondin 01 colaborador de férias Vinicius Sena"
+      "observacao": "Colaborador apresentou atestado Wendel Gondin 01 colaborador de férias Vinicius Sena",
+      "justificativaMeta": ""
     },
     {
       "data": "2026-08-19",
       "linha": "TRI",
       "setor": "MPA",
-      "observacao": "Um retrabalho 112,5 kva Bobina batida na montagem final, foi acionado os responsáveis pelo setor que seguiram com as orientações necessárias para que não haja reincidência."
+      "observacao": "Um retrabalho 112,5 kva Bobina batida na montagem final, foi acionado os responsáveis pelo setor que seguiram com as orientações necessárias para que não haja reincidência.",
+      "justificativaMeta": ""
     }
-  ]
+  ],
+  "detalhesObservacoes": [
+    {
+      "data": "2026-08-07",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Setup para 25kva por conta da chegada do fio",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-07",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Manutenção da porta de estufa 3",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-07",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "Mesa 2 com vazamento \"manutenção\"",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-07",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Tanques pesados na linha instalação da bomba da banheira prime, houve troca da cabine 2",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-07",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "Parada de maquina bordeadeira de tanque 15:28 - 15:52, parafuso da faca quebrados, conforme cronoanalise 112,1% capacidade",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-07",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "observacao": "Faltou papel 45kva no total de 1 hora",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-07",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Somente 1 motor funcionando em cada estufa",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-07",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "112,2 kva esta com aproveitamento de fio",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-07",
+      "linha": "TRI",
+      "setor": "PINTURA",
+      "observacao": "Solicitar a liberação do sabado para limpeza",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "Montagem do gabinete 112kva cliente chibatao 90% | Oliveira 1000kva mpa 80%",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "Não entregamos 100% motivo 3 faltas",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "Ralison avisou que não podia vir hoje por motivo particular | Derik faltou pois a mae dele faleceu | Yan novato faltou sem justificativa",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Matheus atestado",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "BT - trifasico - 1 trafo reforma 45kva e 1 bobina de 112,5kva - BT monofasico (dificuldade no enrolamento devido fio com trinco no isolamento - tratativa foi por uma camada de poliester",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Iranildo atraso chegou as 11:02",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Produtividade individual abaixo da capacidade sem rendimento e esta sendo tratado o ocorrido",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "observacao": "Jose - atestado | Carlos lesao no ombro | dimitri falta não justificada",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "observacao": "Presa 160T teve quebra do punção - parada 7:15 - 14:30",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "observacao": "Ingrid - atestado",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "observacao": "Maquina de empapelar foi parada desde as 20:00 - manutencao atuando pelo turno da manha do dia 11/08",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "observacao": "Reforma 45kva - 1 bobina 112,5kva - 1 bobina 75kva - ambos AT",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Agno falta por problema de saude",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "2 Transformadores especiais 112 kva produção 100%",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Jarlison falta por consulta medica | Paulo falta não justificada",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "3 Peças reprovadas de 15kva",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Meta não alcançada devido problema continuo da mononia perca produtiva entre 30 - 35 trafos",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Monania com falha parando sozinho 10:30 - 11:00 | 11:16 - 11:20 | 13:05 - 13:26 | 13:35 - 13:50",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Wenerson sem justificativa | Antonio hospital com esposa | Kelson atestado",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "Wilson - atestado | Danilo - atestado",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Roneivan macedo falta por problema de saude",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-10",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "1 Funcionario de férias",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "Derick falta por luto",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Walber atestado medico",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "BT monofasico com dificuldade em usar fio 6x7 (trincando) passamos uma camda de poliester / uma ausencia na bt monofasica",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Dificuldade em enrolamento do 10kva 100 trafos (trinca no fio) BT nova não teve producao no 2 turno | faltou cabeceira do 25kva no 2 turno 30 minutos",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "observacao": "Jose contusao no braço | Carlos contusao no ombro | Dimitri passou a informação para o RH | Theyfo a filha quebrou a perna",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "observacao": "Alessandro suspenso por 3 dias | Maquina de empapelar fio ainda em manutencao desde o dia 10/08 as 20:00",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Paulo falta não justificada | Isaque falta não justificada",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "2 Colaboradores sairam as 13:30 (Felipe e Sergio)",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "Mesa de montagem parada com problema daulicos 12:00 - 14:30 parou novamente as 15:40 a mesma mesa mas o outro cilindro feito o reparo voltou as 16:35 | 3 reprovações NC 15kva",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Kelson - atestado",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Pistola com vazamento 14:03 - 14:20 | Mangueira de ar estorou 15:45 - 16:00 | Trabalhando com velocidade lenta 19:00 - 23:08 | Estufa com 1 baixa temperatura",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "Maquina de bordeiar tanque parou as 07:50 para ser feito a troca do conjunto das facas, entregue as 09:58",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "observacao": "Faltou BT para linha de at no 2 turno devido demora no enrolamento de BT, bobinadeira at018 apresentou falhas no pedal no dois turnos",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Agon atestado medico",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Meta do mono não atingida por a capacidade do 25kva ser mais pesado",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Eduardo falta sem justificativa",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-11",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Megagem baixa estufa 2, parte ativa de 150kva, 112,5kva e 300kva sem tanque",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "2º turno desmontou 225 kva para troca de tensao e desmontou 112kva cliente chibatao | Meta concluida 100%",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Fabrica nova foi com pecas para se produzir",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "observacao": "Dobradeira calfran parada 17:10 - 19:30 foi feito a troca de todas as vedações do bloco (estava com vazamento de oleo)",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "observacao": "Ermilson não justificou | Thaylo acompanhando filha | Henrique lesao no ombro | Jose lesao no ombro | Dimitri Pediu saida para acompanhar esposa",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "observacao": "Colaborador Alessandro Andrade suspenso",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "4 PEÇAS NÃO CONFOMES, 1 PEÇA RETRABALHADA DA MONTAGEM FINAL",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "1 Colaborador deslocado para a expedição",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Wellerson falta suspensao 3 dias | David colaborador saiu por acidente de trabalho 11:10",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "Tivemos falta de suporte de porte para dar continuidade no processo do 10kVA OP.42050. Com isso foi feito uma manobra para não ter impacto na produção e sequência na programação dando prioridade ao 45kVA OP.42138 e em seguida no 75kVA OP.42186.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "observacao": "Manutenção nas bobinadeira at 005 e 012 - 005 corta giro com defeito pedi a troca da mesa 09:20 - 16:20 | 012 corta giro 08:02 - 16:50",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-12",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "300kva foi feito 5 pecas mais uma deu não conforme na mpa sendo assim foram somente 4 trafos",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "Retrabalho 225 e 112",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Anderson Bruno atestado",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Maquina AT001 paradas de manutenção corretiva 10:45 - 12:20 | 15:40 | AT018 parada de manutenção 14:01 - 14:40",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "75 kva reforma | 3 bobinas",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Falta de Agno Nunes (Não informada)",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Meta nao antingida no trifásico pois trafos acima da capacidade",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Manutencao corretiva na talha",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "Bruno Marinho 1 atestado médico , Sergio Correia saiu as 14h com declaração de comparecimento",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "2 Colaboradores ausentes | velocidade da linha reduzida para 0,8 pois estava parando muito na cabine do branco | 75 neoenergia | dif - 24 pcs",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Antonio carlos sem justificativa",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Wellerson sina suspenso | David mendonca atestado medico |",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "observacao": "Colaborador Alessandro Andrade esta suspenso",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Termovácuo em manutenção sem impacto na produção 16:00 hrs",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-13",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "observacao": "Falha no setor de estamparia numero de serie estava nao coforme op 42074 lote de 27 pcs com letra g | op 42130 lote de 64 pcs com letra f",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Claudiney da Silva Marialva Sem justificativa até o momento",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Manutencao corretiva na maquina AT003 - 09:30 - 10:20",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Geovane Lima da Silva Sem justificativa até o momento",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Sem justificativa Agno Nunes",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "Carlos Sandro foi ao dentista e chegou às 09:00",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Antonio carlos com atestado médico",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Faltou 7 peças para atingir a meta, muitos tanques de potências grandes 112,5, 150 e 300 kVA, com isso processo para a pintura nos processos de prime e acabamento.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Wellerson Silva está de suspensão",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "1 falta - Ronaldo",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "BOBINA AT",
+      "observacao": "Edgleyson Batista Jacaúna Trouxe atestado médico",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-14",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Megagem baixa, 150 kVA 5 peças",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "EPO",
+      "setor": "EPOXI",
+      "observacao": "225kva montagem de gabinete 100%",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Faltou bobina de BT do 150 KVA lote de 80 TRAFOS CEMIG,devido barra chata da BT.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Máquina de AT 001 parada para manutenção corretiva. Freio e pedal Parada de 20 minutos",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Geovane Lima da Silva Sem justificativa até o momento",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Manutenção corretiva na bobinadeira BT 003 Painel de comando, início as 07.20 até às 8",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Tiveram vários problemas ontem no processo. 1 . Demora do fio do almoxarifado em chegar no setor 7,5x5,5 parada de 20 minutos cada operador. 2.Maquina de BT 009 fez monofásico,25 KVA 3.Barra chata do 150 KVA CEMIG lote de 80 TRAFOS com trinca no processo, engenharia fez desvio na dobra para poder usar material, parada 12.25 até às 16.10",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "observacao": "josé alan está com atestado de 15 dias. Carlos henrique está com lesão no ombro. Theylo martin estava com a filha no hospital devido a uma fratura na perna.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "CORTE DO LASER",
+      "observacao": "produção abaixo devido a falta da programação.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Agno nunes sem justificativa",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "Meta nao atingida devido potencias ser acima da capacidade",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Iarlem Igo FariasMelo Não justificou",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "Felipe Nogueira de Assis - Atestado; Bruno Marinho Guedes - Atestado via App; Marclevado dos Santos Ribeiro - Falta sem justificativa; Matheus Lopes - Falta sem Justificativa",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Causa - Mangueira da pistola do branco entupiu. Ação tomada- troca da mangueira de tinta e das conexões. Tempo de parada - Das 7:50 as 8:20",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Sem justificativa Rafael frank",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "O colaborador apresentou hoje dia 18/08/26 declaração referente ao dia 17/08",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Deixamos de montar 10 pcs 112,5 por conta da divergencia com tanques (tanques empenados e atraso na entrega do setor de pintura)",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "Potencia transformador diferente da estipulado para o dia na programação",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-17",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "Vinicius sena ferias | Wendell atestado",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Alimentador do 1 turno , Adriano Carvalho de Sena ( sem justificativa até o momento) Elton Viana da Silva ( atestado médico)",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Máquina de AT 013 ficou fazendo reformas de 75 KVA do tipo DTG722017 (GARANTIA)",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Bobinadeira de BT 009 usada para bobinagem trifasica deu continuidade no enrolamento de Monofásico para atendimento ao planejado da Bobinagem de AT",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "observacao": "monofásico ficou abaixo por conta da potencia em questão 25kva atendendo ao fluxo de montagem da M.P.A",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Jarlisson Ribeiro Não justificou",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "FORAM FABRICADOS 141 PEÇAS,REPROVARAM 4 PEÇAS",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "Marclevaldo dos santos ribeiro - atestado médico,Matheus lopes da silva - não retornou ao trabalho a semanas,Maick dos santos nascimento - saiu as 11:20 fisoterapia",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Wellerson Silva - sem justificativa ; Rafael Frank- sem justificativa ; Isael Bentes - avisou que estava com virose.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "A meta não alcançada segundo o dash no trifásico ocorreu por conta da potencia em questão 150kva e visando atender os monofásicos do programado.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Jean Rodrigues, apresentou atestado médico",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Motor da esteira da estufa 018 parou, precisou ser retirado para manutenção Hora 10:40 às 16:00 horas",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "150 kva 3 peças não conforme trato em curto.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "Colaborador está de atestado Wendel Gondin",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "AT monofásico fez lote de 74 TRAFOS de 15 KVA 36KV. Colaborador Anderson Bruno de Lima saiu às 11.20 sem retorno ( exames) . Máquina de AT 004 teve manutenção corretiva 13.20.13.50 Máquina AT 006 fez reformas : 5 bobinas de 25kva e 3 bobinas de 15kva 36kv",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "BOBINA AT",
+      "observacao": "Clauniney da Silva Marialva Falta injustificada até o momento.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "BT 009 fazendo monofásico no 1 turno",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Geovane Lima da Silva BT monofásico ( falta injustificada) Cleusivan Ferreira BT trifásico ( falta injustificada) Alexandre BT monofásico ( falta injustificada)",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "BOBINA BT",
+      "observacao": "Máquinas de BT Fábrica Nova finalizaram o 150 KVA com sequencia para o 300 KVA do lote de 38 Trafos",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Isaque da Silva Martins Justificando Atestado médico",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "Matheus lopes da silva - não veio a semamas, Sergio souza correia - se ausentou a 14:00 para ir ao médico, Arthemio duarte de aquino - se ausentou as 14:30 para ir ao médico.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "MPA",
+      "observacao": "iniciamos o turno com mix de potencias 5, 10, 15 e 25kva, não atendendo a meta descrita no dash, porem atendendo em capacidade de montagem dos trafos em questão. Seguimos alinhando o plano de produção para não termos impacto desnecessários .",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "1 colaborador de atestado ( isael bentes) 1 colaborador sem justificativa ( Rafael frank)",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "PINTURA",
+      "observacao": "Desde do início do turno o Jato estava parado. Motivo : vazamento de granalha nas turbinas 1 e 3 . Ação tomada: manutenção acionada . Jato voltou a operar as 8:37. Obs: Não gerou impacto na linha de pintura pois tínhamos tanques disponíveis para alimentação do carrossel.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "observacao": "No 1° turno, constatou-se ausência de suporte de porte referente à OP 42178 que apresentaram problemas ao estampar, para mitigar o impacto na produtividade, foi realizado a manobra utilizando transformador de 30kva, o suporte foi restabelecido após o intervalo do almoço ocasionando leve impacto na linha, ainda sim ambos os turnos tiveram o desempenho satisfatório, atingindo 99,9% da capacidade operacional.",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "TRI",
+      "setor": "MONTAGEM FINAL",
+      "observacao": "Foram feito todas as partes ativas disponíveis nas estufas. 1 parte ativa do 300 kva não foi montada devido ao tanque que estava fora dos padrões 1 tanque do 150 kva voltou para a pintura e um de 75 kva também voltou para a pintura",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "Colaborador apresentou atestado Wendel Gondin 01 colaborador de férias Vinicius Sena",
+      "justificativaMeta": ""
+    },
+    {
+      "data": "2026-08-19",
+      "linha": "TRI",
+      "setor": "MPA",
+      "observacao": "Um retrabalho 112,5 kva Bobina batida na montagem final, foi acionado os responsáveis pelo setor que seguiram com as orientações necessárias para que não haja reincidência.",
+      "justificativaMeta": ""
+    }
+  ],
+  "faltasMaterial": [],
+  "maquinasQuebradas": [],
+  "naoConformidades": []
 }

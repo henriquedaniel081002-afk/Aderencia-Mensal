@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "geradoEm": "2026-08-21T07:28:23-04:00",
+  "geradoEm": "2026-08-21T08:57:48-04:00",
   "periodo": {
     "inicio": "2026-08-01",
     "fim": "2026-08-31",
@@ -5407,7 +5407,7 @@
       "linha": "MON",
       "setor": "BOBINA BT",
       "turno": "1º",
-      "quantidade": 51
+      "quantidade": 58
     },
     {
       "data": "2026-08-17",
@@ -5609,6 +5609,13 @@
       "data": "2026-08-18",
       "linha": "EPO",
       "setor": "MONTAGEM FINAL",
+      "turno": "1º",
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-18",
+      "linha": "EPO",
+      "setor": "MPA",
       "turno": "1º",
       "quantidade": 2
     },
@@ -5995,7 +6002,7 @@
       "linha": "TRI",
       "setor": "MONTAGEM FINAL",
       "turno": "1º",
-      "quantidade": 71
+      "quantidade": 70
     },
     {
       "data": "2026-08-19",
@@ -6009,7 +6016,7 @@
       "linha": "TRI",
       "setor": "PINTURA",
       "turno": "1º",
-      "quantidade": 19
+      "quantidade": 21
     },
     {
       "data": "2026-08-19",
@@ -6128,7 +6135,7 @@
       "linha": "MON",
       "setor": "MPA",
       "turno": "1º",
-      "quantidade": 96
+      "quantidade": 97
     },
     {
       "data": "2026-08-20",
@@ -9127,6 +9134,90 @@
       "setor": "PINTURA",
       "potencia": 150,
       "quantidade": 18
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "ISOLANTE",
+      "potencia": 25,
+      "quantidade": 100
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 15,
+      "quantidade": 70
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "MON",
+      "setor": "SOLDA",
+      "potencia": 15,
+      "quantidade": 177
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 75,
+      "quantidade": 20
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 112.5,
+      "quantidade": 30
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 150,
+      "quantidade": 10
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "ISOLANTE",
+      "potencia": 300,
+      "quantidade": 8
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 30,
+      "quantidade": 98
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "MONTAGEM DO NUCLEO",
+      "potencia": 75,
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "potencia": 30,
+      "quantidade": 50
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "potencia": 150,
+      "quantidade": 2
+    },
+    {
+      "data": "2026-08-20",
+      "linha": "TRI",
+      "setor": "SOLDA",
+      "potencia": 300,
+      "quantidade": 2
     }
   ],
   "faltas": [
@@ -10270,6 +10361,16 @@
       "turno": "1º",
       "setor": "MPA",
       "linha": "TRI"
+    },
+    {
+      "data": "2026-08-20",
+      "nome": "Agno nunes",
+      "motivoJustificativa": "esta com 2 semanas sem aparecer na fabrica",
+      "atestado": "NÃO",
+      "quantidade": null,
+      "turno": "",
+      "setor": "MONTAGEM DO NUCLEO",
+      "linha": ""
     }
   ],
   "observacoes": [
@@ -12083,6 +12184,30 @@
     }
   ],
   "faltasMaterial": [],
-  "maquinasQuebradas": [],
-  "naoConformidades": []
+  "maquinasQuebradas": [
+    {
+      "data": "2026-08-20",
+      "maquinaEquipamento": "maquina de corte de nucleo enrolado UNICORE 3mil",
+      "horaInicio": "12:40",
+      "horaFim": "12:16",
+      "observacao": "Bomba hidraulica esta sem força para atender o expansor de bobinas de aco siliciio",
+      "setor": "MONTAGEM DO NUCLEO"
+    }
+  ],
+  "naoConformidades": [
+    {
+      "data": "2026-08-20",
+      "causa": "houve falha na operação da bordeadeira ( parametros incorretos)",
+      "op": "42170",
+      "numeroSerie": "C 328209",
+      "setor": "SOLDA"
+    },
+    {
+      "data": "2026-08-20",
+      "causa": "houve falha na operação ( parametros incorretos)",
+      "op": "42170",
+      "numeroSerie": "C 328214",
+      "setor": "SOLDA"
+    }
+  ]
 }

@@ -4,14 +4,14 @@ import { Header } from '../components/Header';
 import { formatNum, formatPct } from '../lib/formatters';
 import { MetricPanels } from '../components/MetricPanels';
 import { EvolutionChart } from '../components/Charts';
-import { DayDetailModal, type DetalheProducao, type Falta, type Observacao } from '../components/DayDetailModal';
+import { DayDetailModal, type DetalheProducao, type Falta, type Observacao, type DetalheFalta, type DetalheObservacao, type FaltaMaterial, type MaquinaQuebrada, type NaoConformidade } from '../components/DayDetailModal';
 import { EpoxiDashboard } from './EpoxiDashboard';
 import type { EvolutionItem } from '../components/Charts';
 import dadosJson from '../data/aderenciaMensal.json';
 
 type Programacao = { data:string; linha:string; setor:string; quantidade:number };
 type Apontamento = Programacao & { turno:string };
-type Dados = { geradoEm:string; periodo:{meses:string[]}; filtros:{linhas:string[];setores:string[];turnos:string[]}; programacao:Programacao[]; apontamento:Apontamento[]; detalhesProducao?:DetalheProducao[]; faltas?:Falta[]; observacoes?:Observacao[] };
+type Dados = { geradoEm:string; periodo:{meses:string[]}; filtros:{linhas:string[];setores:string[];turnos:string[]}; programacao:Programacao[]; apontamento:Apontamento[]; detalhesProducao?:DetalheProducao[]; faltas?:Falta[]; observacoes?:Observacao[]; detalhesFaltas?:DetalheFalta[]; detalhesObservacoes?:DetalheObservacao[]; faltasMaterial?:FaltaMaterial[]; maquinasQuebradas?:MaquinaQuebrada[]; naoConformidades?:NaoConformidade[] };
 const dados = dadosJson as Dados;
 const mesesNomes = ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'];
 const mesLabel = (ym:string) => { const [a,m]=ym.split('-').map(Number); return `${mesesNomes[m-1]} de ${a}`; };
@@ -115,6 +115,11 @@ export function MonthlyDashboard({ onLogout }: { onLogout: () => void }) {
           detalhes={dados.detalhesProducao ?? []}
           faltas={dados.faltas ?? []}
           observacoes={dados.observacoes ?? []}
+          detalhesFaltas={dados.detalhesFaltas ?? []}
+          detalhesObservacoes={dados.detalhesObservacoes ?? []}
+          faltasMaterial={dados.faltasMaterial ?? []}
+          maquinasQuebradas={dados.maquinasQuebradas ?? []}
+          naoConformidades={dados.naoConformidades ?? []}
           onClose={() => setDiaSelecionado(null)}
         />
       )}
